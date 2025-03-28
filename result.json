@@ -2,7 +2,7 @@
   {
     "title": "Rubii AI",
     "description": "Rubii: AI native fandom character UGC platform. Create your character, feed, and stage. Create interactive stories, chat with virtual partners, and explore user-generated content.",
-    "url": "https://rubii.ai?utm_source=toolify",
+    "url": "https://rubii.ai",
     "tags": [
       "AI Character",
       "Novel",
@@ -10,9 +10,26 @@
     ]
   },
   {
+    "title": "EHVA.ai",
+    "description": "Conversational AI by Phone - Customer Service, Sales, More.",
+    "url": "https://ehva.ai",
+    "tags": [
+      "Other"
+    ]
+  },
+  {
+    "title": "CNDTS Screening",
+    "description": "Streamlines hiring with AI-driven candidate evaluation.",
+    "url": "https://candidatescreenings.com",
+    "tags": [
+      "AI Interview Assistant",
+      "AI Recruiting"
+    ]
+  },
+  {
     "title": "WaveSpeedAI",
     "description": "Bring the Fastest and Most Efficient AI Video & Image Generation to the World",
-    "url": "/tool/wavespeedai",
+    "url": "https://wavespeed.ai",
     "tags": [
       "Text to Image",
       "AI Photo & Image Generator",
@@ -20,222 +37,9 @@
     ]
   },
   {
-    "title": "Ghibli AI Image Generator Free",
-    "description": "AI platform for creating Ghibli-style artwork from photos.",
-    "url": "/tool/ghibli-ai-image-generator-free",
-    "tags": [
-      "AI Art Generator",
-      "AI Anime Art",
-      "AI Photo & Image Generator"
-    ]
-  },
-  {
-    "title": "GEE-P-TEE",
-    "description": "Over 37,000 pre-built, industry-specific AI templates available for just $1 each, designed to quickly enhance website engagement, lead generation, and monetization.",
-    "url": "/tool/gee-p-tee",
-    "tags": [
-      "AI App Builder",
-      "AI Lead Generation",
-      "Large Language Models (LLMs)"
-    ]
-  },
-  {
-    "title": "Ghibli AI",
-    "description": "Transforms photos into stunning Ghibli Style artwork using AI.",
-    "url": "/tool/ghibli-ai",
-    "tags": [
-      "AI Art Generator",
-      "AI Anime Art",
-      "AI Landscape Generator"
-    ]
-  },
-  {
-    "title": "Aisento",
-    "description": "On-demand AI Agents for your digital needs. Save time, reduce costs, and achieve exceptional results effortlessly.",
-    "url": "/tool/aisento",
-    "tags": [
-      "Copywriting",
-      "Letter Writer",
-      "AI Email Writer"
-    ]
-  },
-  {
-    "title": "AI Native Developer Tools Landscape",
-    "description": "A comprehensive guide to AI development tools and resources.",
-    "url": "/tool/ai-native-dev-landscape",
-    "tags": [
-      "AI Developer Tools"
-    ]
-  },
-  {
-    "title": "EHVA.ai",
-    "description": "Conversational AI by Phone - Customer Service, Sales, More.",
-    "url": "https://ehva.ai?utm_source=toolify",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Lynk",
-    "description": "AI-driven sales and support for e-commerce.",
-    "url": "/tool/lynk",
-    "tags": [
-      "AI Customer Service Assistant",
-      "AI Social Media Assistant",
-      "AI Instagram Assistant"
-    ]
-  },
-  {
-    "title": "PixPro",
-    "description": "AI image processing tool for efficient image enhancement and modification.",
-    "url": "/tool/pixpro",
-    "tags": [
-      "AI Image Enhancer",
-      "Photo & Image Editor",
-      "AI Photo Enhancer"
-    ]
-  },
-  {
-    "title": "AQX",
-    "description": "AI voice agent platform for calls and website interactions.",
-    "url": "/tool/aqx",
-    "tags": [
-      "AI Customer Service Assistant",
-      "AI Lead Generation",
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "Text2Note",
-    "description": "Turn text into actionable notes for effective learning.",
-    "url": "/tool/text2note",
-    "tags": [
-      "AI Notes Assistant",
-      "Research Tool",
-      "Summarizer"
-    ]
-  },
-  {
-    "title": "HTML Editor PRO with AI",
-    "description": "Cloud-based AI coding platform for real-time collaboration and debugging.",
-    "url": "/tool/html-editor-pro-with-ai",
-    "tags": [
-      "AI App Builder",
-      "Code Explanation",
-      "AI Website Builder"
-    ]
-  },
-  {
-    "title": "Exponent",
-    "description": "AI programming agent enhancing collaboration and productivity.",
-    "url": "/tool/exponent",
-    "tags": [
-      "AI Productivity Tools",
-      "Writing Assistants",
-      "AI Code Assistant"
-    ]
-  },
-  {
-    "title": "Personas",
-    "description": "AI tool for fast document analysis and compliance review.",
-    "url": "/tool/personas-ai-powered-document-review",
-    "tags": [
-      "Legal Assistant",
-      "AI PDF",
-      "AI Contract Management"
-    ]
-  },
-  {
-    "title": "XSPACESTREAM",
-    "description": "AI platform for transcripts and insights from X/Twitter Spaces.",
-    "url": "/tool/xspacestream",
-    "tags": [
-      "AI Social Media Assistant",
-      "AI Twitter Assistant",
-      "Transcription"
-    ]
-  },
-  {
-    "title": "EventBeats",
-    "description": "Simplifies event planning with digital invites and AI playlists.",
-    "url": "/tool/event-beats",
-    "tags": [
-      "AI Music Generator"
-    ]
-  },
-  {
-    "title": "Rovyk",
-    "description": "Access multiple AI models in one platform.",
-    "url": "/tool/rovyk",
-    "tags": [
-      "AI Chatbot",
-      "AI Content Generator"
-    ]
-  },
-  {
-    "title": "Prompteus",
-    "description": "A platform for building scalable AI workflows without coding.",
-    "url": "/tool/prompteus",
-    "tags": [
-      "Large Language Models (LLMs)",
-      "Prompt",
-      "AI Productivity Tools"
-    ]
-  },
-  {
-    "title": "Paint Color Match AI",
-    "description": "An app for matching and previewing paint colors with live camera.",
-    "url": "/tool/paint-color-match-ai",
-    "tags": [
-      "AI Interior & Room Design",
-      "AI Image Scanning",
-      "AI Image Recognition"
-    ]
-  },
-  {
-    "title": "Guse",
-    "description": "AI-powered collaborative spreadsheet for creating applications.",
-    "url": "/tool/guse",
-    "tags": [
-      "AI Team Collaboration",
-      "Large Language Models (LLMs)",
-      "General Writing"
-    ]
-  },
-  {
-    "title": "QuickList",
-    "description": "AI app for creating professional marketplace listings instantly.",
-    "url": "/tool/quicklist-ai-listing-creator",
-    "tags": [
-      "AI SEO Assistant",
-      "AI Facebook Assistant",
-      "E-commerce Assistant"
-    ]
-  },
-  {
-    "title": "Read My MRI",
-    "description": "AI service for understanding MRI reports in simple language.",
-    "url": "/tool/read-my-mri",
-    "tags": [
-      "Healthcare",
-      "AI Blog Writer",
-      "Summarizer"
-    ]
-  },
-  {
-    "title": "Grok 3 AI",
-    "description": "Advanced AI model for building AI SaaS startups.",
-    "url": "/tool/grok-3-ai",
-    "tags": [
-      "AI Code Assistant",
-      "AI Photo & Image Generator",
-      "AI Content Generator"
-    ]
-  },
-  {
     "title": "DocsLoop",
     "description": "AI document management for effortless data processing and collaboration.",
-    "url": "https://docsloop.com?utm_source=toolify",
+    "url": "https://docsloop.com",
     "tags": [
       "AI PDF",
       "AI Productivity Tools",
@@ -243,47 +47,9 @@
     ]
   },
   {
-    "title": "AI Call Campaigns",
-    "description": "Unified platform for managing AI voice call campaigns.",
-    "url": "/tool/ai-call-campaigns",
-    "tags": [
-      "AI Analytics Assistant",
-      "AI Customer Service Assistant",
-      "AI CRM Assistant"
-    ]
-  },
-  {
-    "title": "HypeBridge",
-    "description": "Automated influencer marketing platform powered by AI.",
-    "url": "/tool/hypebridge",
-    "tags": [
-      "AI Advertising Assistant",
-      "AI Social Media Assistant",
-      "AI Instagram Assistant"
-    ]
-  },
-  {
-    "title": "Valyfy",
-    "description": "Career-building platform connecting users with startup challenges.",
-    "url": "/tool/valyfy",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "WaveSpeedAI",
-    "description": "Bring the Fastest and Most Efficient AI Video & Image Generation to the World",
-    "url": "/tool/wavespeedai",
-    "tags": [
-      "Text to Image",
-      "AI Photo & Image Generator",
-      "Image to Image"
-    ]
-  },
-  {
     "title": "Ghibli AI Image Generator Free",
     "description": "AI platform for creating Ghibli-style artwork from photos.",
-    "url": "/tool/ghibli-ai-image-generator-free",
+    "url": "https://geblee.ai",
     "tags": [
       "AI Art Generator",
       "AI Anime Art",
@@ -293,7 +59,7 @@
   {
     "title": "GEE-P-TEE",
     "description": "Over 37,000 pre-built, industry-specific AI templates available for just $1 each, designed to quickly enhance website engagement, lead generation, and monetization.",
-    "url": "/tool/gee-p-tee",
+    "url": "https://www.geeptee.com",
     "tags": [
       "AI App Builder",
       "AI Lead Generation",
@@ -303,7 +69,7 @@
   {
     "title": "Ghibli AI",
     "description": "Transforms photos into stunning Ghibli Style artwork using AI.",
-    "url": "/tool/ghibli-ai",
+    "url": "https://ghibliai.ai",
     "tags": [
       "AI Art Generator",
       "AI Anime Art",
@@ -321,154 +87,9 @@
     ]
   },
   {
-    "title": "Aisento",
-    "description": "On-demand AI Agents for your digital needs. Save time, reduce costs, and achieve exceptional results effortlessly.",
-    "url": "/tool/aisento",
-    "tags": [
-      "Copywriting",
-      "Letter Writer",
-      "AI Email Writer"
-    ]
-  },
-  {
-    "title": "AI Native Developer Tools Landscape",
-    "description": "A comprehensive guide to AI development tools and resources.",
-    "url": "/tool/ai-native-dev-landscape",
-    "tags": [
-      "AI Developer Tools"
-    ]
-  },
-  {
-    "title": "Lynk",
-    "description": "AI-driven sales and support for e-commerce.",
-    "url": "/tool/lynk",
-    "tags": [
-      "AI Customer Service Assistant",
-      "AI Social Media Assistant",
-      "AI Instagram Assistant"
-    ]
-  },
-  {
-    "title": "PixPro",
-    "description": "AI image processing tool for efficient image enhancement and modification.",
-    "url": "/tool/pixpro",
-    "tags": [
-      "AI Image Enhancer",
-      "Photo & Image Editor",
-      "AI Photo Enhancer"
-    ]
-  },
-  {
-    "title": "AQX",
-    "description": "AI voice agent platform for calls and website interactions.",
-    "url": "/tool/aqx",
-    "tags": [
-      "AI Customer Service Assistant",
-      "AI Lead Generation",
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "Text2Note",
-    "description": "Turn text into actionable notes for effective learning.",
-    "url": "/tool/text2note",
-    "tags": [
-      "AI Notes Assistant",
-      "Research Tool",
-      "Summarizer"
-    ]
-  },
-  {
-    "title": "HTML Editor PRO with AI",
-    "description": "Cloud-based AI coding platform for real-time collaboration and debugging.",
-    "url": "/tool/html-editor-pro-with-ai",
-    "tags": [
-      "AI App Builder",
-      "Code Explanation",
-      "AI Website Builder"
-    ]
-  },
-  {
-    "title": "Exponent",
-    "description": "AI programming agent enhancing collaboration and productivity.",
-    "url": "/tool/exponent",
-    "tags": [
-      "AI Productivity Tools",
-      "Writing Assistants",
-      "AI Code Assistant"
-    ]
-  },
-  {
-    "title": "Personas",
-    "description": "AI tool for fast document analysis and compliance review.",
-    "url": "/tool/personas-ai-powered-document-review",
-    "tags": [
-      "Legal Assistant",
-      "AI PDF",
-      "AI Contract Management"
-    ]
-  },
-  {
-    "title": "XSPACESTREAM",
-    "description": "AI platform for transcripts and insights from X/Twitter Spaces.",
-    "url": "/tool/xspacestream",
-    "tags": [
-      "AI Social Media Assistant",
-      "AI Twitter Assistant",
-      "Transcription"
-    ]
-  },
-  {
-    "title": "EventBeats",
-    "description": "Simplifies event planning with digital invites and AI playlists.",
-    "url": "/tool/event-beats",
-    "tags": [
-      "AI Music Generator"
-    ]
-  },
-  {
-    "title": "Rovyk",
-    "description": "Access multiple AI models in one platform.",
-    "url": "/tool/rovyk",
-    "tags": [
-      "AI Chatbot",
-      "AI Content Generator"
-    ]
-  },
-  {
-    "title": "Prompteus",
-    "description": "A platform for building scalable AI workflows without coding.",
-    "url": "/tool/prompteus",
-    "tags": [
-      "Large Language Models (LLMs)",
-      "Prompt",
-      "AI Productivity Tools"
-    ]
-  },
-  {
-    "title": "Paint Color Match AI",
-    "description": "An app for matching and previewing paint colors with live camera.",
-    "url": "/tool/paint-color-match-ai",
-    "tags": [
-      "AI Interior & Room Design",
-      "AI Image Scanning",
-      "AI Image Recognition"
-    ]
-  },
-  {
-    "title": "Guse",
-    "description": "AI-powered collaborative spreadsheet for creating applications.",
-    "url": "/tool/guse",
-    "tags": [
-      "AI Team Collaboration",
-      "Large Language Models (LLMs)",
-      "General Writing"
-    ]
-  },
-  {
     "title": "Image Translator / Manga translator",
     "description": "AI tool for translating text in images across 100+ languages.",
-    "url": "/tool/image-translator-manga-translator",
+    "url": "https://translateimage.app",
     "tags": [
       "Translate",
       "AI Product Description Generator",
@@ -478,7 +99,7 @@
   {
     "title": "AI PPT Maker",
     "description": "AI PPT Maker is a free AI Presentation Maker that allows you to create stunning presentations in seconds with DeepSeek or ChatGPT.",
-    "url": "/tool/ai-ppt-maker",
+    "url": "https://aipptmaker.ai",
     "tags": [
       "AI Presentation Generator",
       "Translate",
@@ -488,7 +109,7 @@
   {
     "title": "Free AI Presentation Maker",
     "description": "AI tool for creating professional presentations easily.",
-    "url": "/tool/free-ai-presentation-maker",
+    "url": "https://ai.poweredtemplate.com",
     "tags": [
       "AI Graphic Design",
       "Healthcare",
@@ -498,7 +119,7 @@
   {
     "title": "PPT.AI",
     "description": "PPT.AI - AI Presentation Maker, Fast and Easy",
-    "url": "/tool/ppt-ai",
+    "url": "https://ppt.ai",
     "tags": [
       "AI Content Generator",
       "AI Presentation Generator",
@@ -506,19 +127,19 @@
     ]
   },
   {
-    "title": "14DaysOfAI",
-    "description": "Learn AI in 14 days with daily bitesized lessons delivered to your inbox.",
-    "url": "https://www.100school.com/atomic-challenges/14daysofai?utm_source=directories&utm_medium=toolify",
+    "title": "DocumentLLM",
+    "description": "AI tools for document analysis and management",
+    "url": "https://documentllm.com",
     "tags": [
-      "AI Coaching",
-      "AI Tutorial",
-      "AI Course"
+      "AI Documents Assistant",
+      "AI Document Extraction",
+      "AI PDF"
     ]
   },
   {
     "title": "Creative Fabrica",
     "description": "First AI tool to generate your own custom fonts and download them in installable format on Mac and Windows",
-    "url": "/tool/creative-fabrica",
+    "url": "https://www.creativefabrica.com/tools/font-generator",
     "tags": [
       "AI Art Generator",
       "AI Design Generator",
@@ -528,7 +149,7 @@
   {
     "title": "MusicMuse",
     "description": "AI music generator for instant song creation.",
-    "url": "/tool/musicmuse",
+    "url": "https://www.musicmuse.ai",
     "tags": [
       "AI Lyrics Generator",
       "AI Music Generator",
@@ -538,7 +159,7 @@
   {
     "title": "Photiu.AI",
     "description": "AI tools for background removal and image editing.",
-    "url": "/tool/photiu-ai",
+    "url": "https://www.photiu.ai",
     "tags": [
       "Photo & Image Editor",
       "AI Background Remover"
@@ -547,7 +168,7 @@
   {
     "title": "MyFaceSwap",
     "description": "Free AI tool for face swapping in videos and images.",
-    "url": "/tool/myfaceswap",
+    "url": "https://myfaceswap.ai",
     "tags": [
       "AI Video Recording",
       "AI Face Swap Generator",
@@ -557,7 +178,7 @@
   {
     "title": "TerraPrime",
     "description": "TerraPrime is a broker-free platform revolutionizing commercial real estate by directly connecting developers with investors globally. Its TerraPublic initiative helps cities secure global investment for sustainable growth, streamlining deals with transparency and technology.",
-    "url": "/tool/terraprime",
+    "url": "https://www.terraprime.estate",
     "tags": [
       "Translate",
       "AI Task Management",
@@ -567,7 +188,7 @@
   {
     "title": "AiSOAP",
     "description": "Freed 2 hours per day with AI from charting and SOAP note-taking",
-    "url": "/tool/aisoap-ai-soap-notes",
+    "url": "https://aisoap.com",
     "tags": [
       "Healthcare",
       "Mental Health",
@@ -577,7 +198,7 @@
   {
     "title": "Immediate Edge",
     "description": "A trading platform for connecting brokers and users for cryptocurrency trading.",
-    "url": "/tool/immediate-edge",
+    "url": "https://immediateedgeappuk.com/ai",
     "tags": [
       "AI Advertising Assistant",
       "AI Customer Service Assistant",
@@ -587,7 +208,7 @@
   {
     "title": "GPTBox",
     "description": "AI integration for enhanced productivity in Windows tasks.",
-    "url": "/tool/gptbox",
+    "url": "https://www.gptbox.app",
     "tags": [
       "AI Email Assistant",
       "AI Email Generator",
@@ -597,7 +218,7 @@
   {
     "title": "GenTube",
     "description": "Remember when AI was supposed to make things faster? Stop waiting on image generation and start creating with lightning speed on GenTube today!",
-    "url": "/tool/gentube",
+    "url": "https://www.gentube.app/feed/live-creations",
     "tags": [
       "AI Content Generator",
       "AI Clothing Generator",
@@ -607,7 +228,7 @@
   {
     "title": "AI Image Upscaler",
     "description": "Enhance images and photos using AI upscaling technology.",
-    "url": "/tool/ai-image-upscaler",
+    "url": "https://icons8.com/upscaler",
     "tags": [
       "AI Illustration Generator",
       "AI Image Enhancer",
@@ -615,55 +236,9 @@
     ]
   },
   {
-    "title": "Slazzer",
-    "description": "Instant background removal tool for images online.",
-    "url": "/tool/slazzer-online",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "UHIRED",
-    "description": "AI platform for IT interview preparation and confidence building.",
-    "url": "/tool/uhired",
-    "tags": [
-      "AI Interview Assistant",
-      "AI Recruiting",
-      "Writing Assistants"
-    ]
-  },
-  {
-    "title": "Jsonify",
-    "description": "AI tool for browsing, extracting, and syncing data efficiently.",
-    "url": "/tool/jsonify",
-    "tags": [
-      "AI Document Extraction",
-      "AI Spreadsheet",
-      "AI Analytics Assistant"
-    ]
-  },
-  {
-    "title": "AltTextGeneratorAI",
-    "description": "AI tool to generate alt text for images quickly.",
-    "url": "/tool/alt-text-ai-generator",
-    "tags": [
-      "AI SEO Assistant"
-    ]
-  },
-  {
-    "title": "Free AI Face Swap",
-    "description": "Online tool for quick and free face swapping in photos and videos.",
-    "url": "/tool/free-ai-face-swap-no-sign-up-no-fee",
-    "tags": [
-      "AI Photo & Image Generator",
-      "Photo & Image Editor",
-      "AI Face Swap Generator"
-    ]
-  },
-  {
     "title": "Dailos AI",
     "description": "Create personalized children's stories with AI for kids.",
-    "url": "/tool/dailos-ai",
+    "url": "https://dailos.ai",
     "tags": [
       "AI Story Writing"
     ]
@@ -671,7 +246,7 @@
   {
     "title": "FOMO.ai",
     "description": "Your scalable AI marketing team that delivers high-quality, on-brand content for you.",
-    "url": "/tool/fomo-ai",
+    "url": "https://fomo.ai",
     "tags": [
       "AI Blog Writer",
       "AI Consulting Assistant",
@@ -681,7 +256,7 @@
   {
     "title": "MindMap AI",
     "description": "MindMap AI is an AI powered mind mapping platform that revolutionizes the ideation process. It empowers over 50,000+ thinkers including students, professionals, and researchers from leading institutions and companies to create sophisticated mind maps through AI assistance.",
-    "url": "/tool/mindmap-ai-app",
+    "url": "https://mindmapai.app",
     "tags": [
       "AI Business Ideas Generator",
       "AI Productivity Tools",
@@ -691,7 +266,7 @@
   {
     "title": "PNGFree.ai",
     "description": "PNGFree.ai offers Free AI background remover and millions of high-quality free PNG images for to simplify your work.",
-    "url": "/tool/pngfree-ai",
+    "url": "http://pngfree.ai",
     "tags": [
       "AI Background Remover",
       "Photo & Image Editor",
@@ -701,7 +276,7 @@
   {
     "title": "AI Parabellum",
     "description": "AI Tools Directory platform",
-    "url": "https://aiparabellum.com?utm_source=toolify",
+    "url": "https://aiparabellum.com",
     "tags": [
       "AI Tools Directory"
     ]
@@ -709,7 +284,7 @@
   {
     "title": "Synexa AI",
     "description": "Simple, fast, and stable. Deploy AI models with just one line of code.",
-    "url": "/tool/synexa-ai",
+    "url": "https://synexa.ai",
     "tags": [
       "Text to Image",
       "Image to Video",
@@ -719,7 +294,7 @@
   {
     "title": "Janus Pro AI",
     "description": "Multimodal AI for HD image generation and understanding.",
-    "url": "/tool/janus-pro-ai-pro",
+    "url": "https://janusproai.pro",
     "tags": [
       "Text to Image",
       "AI Photo & Image Generator"
@@ -728,7 +303,7 @@
   {
     "title": "Janus Pro AI",
     "description": "AI image generator for text-to-image creation.",
-    "url": "/tool/janus-pro-ai",
+    "url": "https://janusproai.org",
     "tags": [
       "Text to Image"
     ]
@@ -736,7 +311,7 @@
   {
     "title": "Scrumbuiss",
     "description": "Ultimate management software for agile project workflows and collaboration.",
-    "url": "/tool/scrumbuiss",
+    "url": "https://www.scrumbuiss.com",
     "tags": [
       "AI Productivity Tools",
       "AI Task Management",
@@ -746,7 +321,7 @@
   {
     "title": "AI Dating Assistant",
     "description": "AI service for enhancing dating profile images.",
-    "url": "/tool/ai-dating-assistant",
+    "url": "https://aidatingassistant.ai",
     "tags": [
       "AI Dating Assistant",
       "Pick-up Lines Generator",
@@ -756,7 +331,7 @@
   {
     "title": "Media.io AI Video Generator",
     "description": "Free online AI video generator for stunning videos.",
-    "url": "/tool/media-io-ai-video-generator",
+    "url": "https://www.media.io/apps/ai-video-generator/explore",
     "tags": [
       "AI Video Generator",
       "AI Animated Video",
@@ -766,7 +341,7 @@
   {
     "title": "Cast Swapper",
     "description": "Discover how do you look like as movie stars in Movie/TV Shows Today.",
-    "url": "/tool/cast-swapper",
+    "url": "https://whatcharacterdoilooklike.com",
     "tags": [
       "Other"
     ]
@@ -774,7 +349,7 @@
   {
     "title": "Janus Pro",
     "description": "Unified multimodal AI for understanding and generation tasks.",
-    "url": "/tool/janus-pro",
+    "url": "https://janusai.pro",
     "tags": [
       "AI Art Generator",
       "Text to Image",
@@ -784,7 +359,7 @@
   {
     "title": "Image to Prompt",
     "description": "Generate prompts from images for AI models.",
-    "url": "/tool/image-to-prompt",
+    "url": "https://imageprompt.org/image-to-prompt",
     "tags": [
       "Prompt"
     ]
@@ -792,7 +367,7 @@
   {
     "title": "AI Music Generator",
     "description": "An AI music generator for creating royalty-free original music.",
-    "url": "/tool/aimusicgen",
+    "url": "https://aimusicgen.ai",
     "tags": [
       "AI Lyrics Generator",
       "AI Music Generator",
@@ -802,7 +377,7 @@
   {
     "title": "TripOffice.com",
     "description": "AI-Powered Hotel Search Engine",
-    "url": "/tool/tripoffice-com",
+    "url": "https://www.tripoffice.com",
     "tags": [
       "AI Search Engine",
       "AI Productivity Tools",
@@ -812,7 +387,7 @@
   {
     "title": "Free Image Background Remover (No Ads & No sign-up)",
     "description": "EzRemove is a completely free image background removal tool that offers a simple and efficient user interface. It utilizes highly trained AI models to remove image backgrounds, aiming to deliver an exceptional, high-quality background removal experience. Most importantly, EzRemove is entirely free, ad-free, and allows users to access all features quickly without requiring any login.",
-    "url": "/tool/free-image-background-remover-no-ads-no-sign-up",
+    "url": "https://ezremove.ai",
     "tags": [
       "Photo & Image Editor",
       "AI Photo Enhancer",
@@ -822,7 +397,7 @@
   {
     "title": "BeFreed",
     "description": "Next-gen smart learning app.",
-    "url": "/tool/befreed",
+    "url": "https://www.befreed.ai",
     "tags": [
       "Life Assistant",
       "Mental Health",
@@ -832,7 +407,7 @@
   {
     "title": "MMAudio",
     "description": "AI tool for transforming video content into immersive audio",
-    "url": "/tool/mmaudio",
+    "url": "https://mmaudio.net",
     "tags": [
       "AI Audio Enhancer",
       "AI YouTube Assistant",
@@ -842,7 +417,7 @@
   {
     "title": "Storebuild.ai",
     "description": "Start your e-commerce business for free in 5 minutes with suppliers!",
-    "url": "/tool/storebuild-ai",
+    "url": "https://storebuild.ai/toolify-ai/",
     "tags": [
       "AI Landing Page Builder",
       "AI Website Builder",
@@ -852,7 +427,7 @@
   {
     "title": "AI Portrait Gen",
     "description": "Create realistic portraits of yourself that look like professional photos",
-    "url": "/tool/ai-portrait-gen",
+    "url": "https://aiportraitgen.com",
     "tags": [
       "AI Photo & Image Generator",
       "AI Avatar Generator",
@@ -862,7 +437,7 @@
   {
     "title": "bugfree.ai",
     "description": "bugfree.ai is an advanced AI-powered platform designed to help software engineers master system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI simulations.",
-    "url": "/tool/bugfree-ai",
+    "url": "https://bugfree.ai",
     "tags": [
       "AI Interview Assistant",
       "AI Coaching",
@@ -872,7 +447,7 @@
   {
     "title": "My Color Analysis AI",
     "description": "AI tool for personalized seasonal color analysis.",
-    "url": "/tool/my-color-analysis-ai",
+    "url": "https://mycoloranalysis.ai",
     "tags": [
       "AI Selfie & Portrait",
       "Photo & Image Editor"
@@ -881,7 +456,7 @@
   {
     "title": "XJoy AI",
     "description": "XJoy AI, a website that satisfies all fantasies XJoy AI is currently the most complete set of functions and the most powerful set of AI tools on the market. www.xjoy.ai includes: AI girlfriend, AI face changing,AI dance,AI undressing, AI sexy poses, xjoy.ai's AI chat has the function of generating scene pictures in real time, allowing you to be immersed in the scene and allowing you to do more interesting things with your AI girlfriend xjoy.ai's AI face-changing supports 8K high-definition long-term video and multi-person face-changing. xjoy.ai's AI dance function is currently an exclusive project on the entire Internet. Let anyone dance for you, come to xjoy.ai to experience it. xjoy.ai's undressAI function can more accurately take off anyone's clothes, and can adjust body shape, such as breast size, etc. xjoy.ai's undressing function can also generate short videos from a photo! The sexy photo album function of xjoy.ai can use a photo of anyone to generate multiple sets of sexy looks, and automatically generate a private photo album that belongs only to you.",
-    "url": "/tool/xjoy-ai",
+    "url": "https://www.xjoy.ai",
     "tags": [
       "AI Photo & Image Generator",
       "AI Cosplay Generator",
@@ -889,19 +464,19 @@
     ]
   },
   {
-    "title": "DocumentLLM",
-    "description": "AI tools for document analysis and management",
-    "url": "https://documentllm.com?utm_source=toolify",
+    "title": "Canny",
+    "description": "All-in-one customer feedback management platform.",
+    "url": "https://canny.io",
     "tags": [
-      "AI Documents Assistant",
-      "AI Document Extraction",
-      "AI PDF"
+      "Speech-to-Text",
+      "Research Tool",
+      "Translate"
     ]
   },
   {
     "title": "LoveAI API",
     "description": "Unbeatable Price! Get the Suno AI API for 90% Off",
-    "url": "/tool/loveai-api",
+    "url": "https://loveaiapi.com",
     "tags": [
       "AI API Design",
       "Web Scraping",
@@ -911,7 +486,7 @@
   {
     "title": "NEUROFIT App",
     "description": "Prevent burnout and improve focus and well-being in 5 mins/day.",
-    "url": "/tool/neurofit-app",
+    "url": "https://neurofit.app",
     "tags": [
       "Mental Health",
       "Fitness"
@@ -920,7 +495,7 @@
   {
     "title": "GenYOU",
     "description": "Free app for generating personalized AI portraits and photos.",
-    "url": "/tool/genyou",
+    "url": "https://generated.photos/genyou",
     "tags": [
       "AI Social Media Assistant",
       "AI Instagram Assistant",
@@ -930,7 +505,7 @@
   {
     "title": "Minimax AI",
     "description": "AI platform for generating high-resolution videos from text.",
-    "url": "/tool/minimax-ai",
+    "url": "https://minimax-ai.org",
     "tags": [
       "Prompt",
       "AI Video Recording",
@@ -940,7 +515,7 @@
   {
     "title": "AI Describe Picture",
     "description": "AI tool for generating image descriptions and extracting text.",
-    "url": "/tool/ai-describe-picture",
+    "url": "https://describepicture.org",
     "tags": [
       "AI Art Generator",
       "Prompt",
@@ -950,7 +525,7 @@
   {
     "title": "Flux AI",
     "description": "Advanced AI tools for generating images and videos",
-    "url": "/tool/flux-ai-ai",
+    "url": "https://flux-ai.io",
     "tags": [
       "AI Art Generator",
       "AI Anime Art",
@@ -960,7 +535,7 @@
   {
     "title": "Inkwise AI",
     "description": "AI platform for creating documents from uploaded files.",
-    "url": "/tool/inkwise-ai",
+    "url": "https://inkwise.ai",
     "tags": [
       "Legal Assistant",
       "AI Document Extraction",
@@ -970,7 +545,7 @@
   {
     "title": "Image to Prompt AI - Free Unlimited Online Tool",
     "description": "Convert images into detailed text prompts.",
-    "url": "/tool/image-to-prompt-ai-free-unlimited-online-tool",
+    "url": "https://imagetoprompt.ai",
     "tags": [
       "AI SEO Assistant",
       "Prompt",
@@ -978,88 +553,9 @@
     ]
   },
   {
-    "title": "I ♡ Transcriptions",
-    "description": "Unlimited audio/video transcriptions in multiple languages with high accuracy.",
-    "url": "/tool/i-transcriptions",
-    "tags": [
-      "AI PDF",
-      "Transcription",
-      "Transcriber"
-    ]
-  },
-  {
-    "title": "Smart Dictate",
-    "description": "Context-aware dictation and AI tool for enhanced productivity.",
-    "url": "/tool/smart-dictate",
-    "tags": [
-      "AI Productivity Tools",
-      "AI Email Assistant",
-      "AI Reply Assistant"
-    ]
-  },
-  {
-    "title": "Lobster Lead",
-    "description": "AI tool for SEO and content automation for businesses.",
-    "url": "/tool/lobster-lead",
-    "tags": [
-      "AI SEO Assistant",
-      "AI Blog Writer",
-      "Writing Assistants"
-    ]
-  },
-  {
-    "title": "Buckets",
-    "description": "AI tool for managing personal and business relationships.",
-    "url": "/tool/buckets",
-    "tags": [
-      "AI CRM Assistant",
-      "Newsletter"
-    ]
-  },
-  {
-    "title": "MindCopilot",
-    "description": "Enhanced UI for ChatGPT with unique features",
-    "url": "/tool/mindcopilot-a-better-ui-for-chatgpt",
-    "tags": [
-      "AI Chatbot",
-      "AI Character",
-      "AI Code Assistant"
-    ]
-  },
-  {
-    "title": "DishAI",
-    "description": "AI-powered cooking companion for personalized recipes.",
-    "url": "/tool/dishai",
-    "tags": [
-      "AI Cooking Assistant",
-      "AI Recipe Assistant",
-      "AI Image Scanning"
-    ]
-  },
-  {
-    "title": "SantaAI",
-    "description": "Interactive app offering personalized Santa experiences for kids.",
-    "url": "/tool/santaai",
-    "tags": [
-      "AI Facebook Assistant",
-      "AI Tiktok Assistant",
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "LoLify.io",
-    "description": "AI tool for generating trending jokes and memes quickly.",
-    "url": "/tool/lolify",
-    "tags": [
-      "AI Social Media Assistant",
-      "AI Ad Creative Assistant",
-      "AI Ad Generator"
-    ]
-  },
-  {
     "title": "Naaia",
     "description": "Naaia, Europe’s first AIMS® (AI management system) provides an operational model for  AI compliance and risk management.",
-    "url": "/tool/naaia",
+    "url": "https://naaia.ai/homepage",
     "tags": [
       "AI Chatbot",
       "Large Language Models (LLMs)",
@@ -1069,7 +565,7 @@
   {
     "title": "AI Tattoo Ideas",
     "description": "AI-powered tool for generating custom tattoo designs.",
-    "url": "/tool/ai-tattoo-ideas",
+    "url": "https://tattoo-ideas.ai",
     "tags": [
       "AI Art Generator",
       "AI Design Generator",
@@ -1079,25 +575,23 @@
   {
     "title": "Bright Data",
     "description": "Power AI and LLMs with Endless Web Data",
-    "url": "/tool/bright-data-dataset-marketplace",
+    "url": "https://get.brightdata.com/datatoolify",
     "tags": [
       "Web Scraping"
     ]
   },
   {
-    "title": "Canny",
-    "description": "All-in-one customer feedback management platform.",
-    "url": "https://canny.io?utm_source=toolify&utm_medium=cpc",
+    "title": "freebeat.ai: Turn Your Music into Visual Magic",
+    "description": "Discover freebeat.ai: Your AI-Powered Music Video Creator",
+    "url": "https://freebeat.ai/",
     "tags": [
-      "Speech-to-Text",
-      "Research Tool",
-      "Translate"
+      "Fitness"
     ]
   },
   {
     "title": "floatz AI",
     "description": "Supercharge Your Research, with AI.",
-    "url": "/tool/floatz-ai",
+    "url": "https://floatz.ai",
     "tags": [
       "AI Search Engine",
       "Research Tool",
@@ -1107,7 +601,7 @@
   {
     "title": "iDox.ai",
     "description": "Take the hassle out of redaction. Auto-redact text, signatures, logos & more.",
-    "url": "/tool/idox-ai",
+    "url": "https://www.idox.ai",
     "tags": [
       "AI PDF",
       "AI WORD",
@@ -1117,7 +611,7 @@
   {
     "title": "UPDF AI",
     "description": "UPDF AI is a GPT-powered assistant integrated into the UPDF app, an all-in-one PDF editor. It offers features like summarizing PDFs, translating while preserving layouts, explaining content, converting PDFs to mind maps, and chatting with images. The UPDF AI is can be accessed within the UPDF app across Windows, macOS, iOS, and Android platforms, it can be also accessed online.",
-    "url": "/tool/updf-ai",
+    "url": "https://updf.com",
     "tags": [
       "AI Blog Writer",
       "AI Email Assistant",
@@ -1127,7 +621,7 @@
   {
     "title": "Image to Video AI",
     "description": "Convert images to videos effortlessly with AI technology.",
-    "url": "/tool/image-to-video-ai",
+    "url": "https://imagetovideoai.io",
     "tags": [
       "Image to Video"
     ]
@@ -1135,7 +629,7 @@
   {
     "title": "Releem",
     "description": "AI-Powered MySQL Performance Monitoring Tool",
-    "url": "/tool/releem",
+    "url": "https://releem.com",
     "tags": [
       "AI DevOps Assistant",
       "AI Monitor & Report Builder",
@@ -1143,105 +637,9 @@
     ]
   },
   {
-    "title": "Xtyle",
-    "description": "AI-driven hairstyle discovery platform using selfies.",
-    "url": "/tool/xtyleai",
-    "tags": [
-      "AI Email Writer",
-      "AI Selfie & Portrait"
-    ]
-  },
-  {
-    "title": "Imovel Certo",
-    "description": "Tool for informed real estate purchases with comprehensive market analysis.",
-    "url": "/tool/imovel-certo",
-    "tags": [
-      "AI Lead Generation",
-      "Investing Assistant",
-      "Copywriting"
-    ]
-  },
-  {
-    "title": "Prodhiiv",
-    "description": "AI tool for visual notes, task management, and collaboration.",
-    "url": "/tool/prodhiiv",
-    "tags": [
-      "AI Productivity Tools",
-      "AI Team Collaboration",
-      "AI Notes Assistant"
-    ]
-  },
-  {
-    "title": "AI Photo Enhancer",
-    "description": "AI tool for enhancing images up to 10x resolution.",
-    "url": "/tool/ai-photo-enhancer",
-    "tags": [
-      "AI Anime Art",
-      "E-commerce Assistant",
-      "AI Photo Enhancer"
-    ]
-  },
-  {
-    "title": "MathGPT",
-    "description": "AI tool for solving math problems and generating educational videos.",
-    "url": "/tool/mathgpt-ai-math-solver-animator",
-    "tags": [
-      "Homework Helper",
-      "AI Education Assistant"
-    ]
-  },
-  {
-    "title": "Syrenn",
-    "description": "AI platform for simulating conversations in training scenarios.",
-    "url": "/tool/syrenn",
-    "tags": [
-      "AI Content Generator"
-    ]
-  },
-  {
-    "title": "Jiff Genius AI",
-    "description": "AI-driven trading assistance for investors of all levels.",
-    "url": "/tool/jiff-genius",
-    "tags": [
-      "AI Customer Service Assistant",
-      "AI Knowledge Base",
-      "AI Knowledge Graph"
-    ]
-  },
-  {
-    "title": "Pidgeon",
-    "description": "AI-driven news app for summaries and personalized content.",
-    "url": "/tool/pidgeon",
-    "tags": [
-      "AI Reviews Assistant",
-      "Newsletter",
-      "Summarizer"
-    ]
-  },
-  {
-    "title": "AiNameIt",
-    "description": "AI-driven platform for generating business names and taglines.",
-    "url": "/tool/ainameit",
-    "tags": [
-      "AI Business Ideas Generator",
-      "Domain Name Generator",
-      "AI Content Generator"
-    ]
-  },
-  {
-    "title": "Feeedbackr",
-    "description": "AI platform for collecting and analyzing customer feedback.",
-    "url": "/tool/feeedbackr",
-    "tags": [
-      "AI Forms & Surveys",
-      "AI Analytics Assistant",
-      "AI Productivity Tools"
-    ]
-  },
-  {
     "title": "AskWiki",
     "description": "Interactive Q&A platform for critical thinking and knowledge sharing.",
-    "url": "/tool/askwiki",
+    "url": "https://askwiki.ai",
     "tags": [
       "Other"
     ]
@@ -1249,7 +647,7 @@
   {
     "title": "Focal",
     "description": "Focal is a platform where you can create your own TV shows and movies with AI.",
-    "url": "/tool/focal",
+    "url": "https://focalml.com",
     "tags": [
       "AI Anime & Cartoon Generator",
       "AI Animated Video",
@@ -1259,7 +657,7 @@
   {
     "title": "AdsDog",
     "description": "AdsDog is an AI-powered video creation tool that simplifies the process of producing high-quality, professional videos featuring digital human avatars. By analyzing product URLs, AdsDog automates video production, making it easier for businesses and marketers to create content optimized for social media platforms like TikTok, Instagram, and Facebook.",
-    "url": "/tool/adsdog",
+    "url": "https://adsdog.ai",
     "tags": [
       "AI Video Generator",
       "AI Ad Creative Assistant",
@@ -1269,25 +667,23 @@
   {
     "title": "TimelyGrader",
     "description": "AI-Assisted Grading and Feedback at Scale",
-    "url": "/tool/timelygrader",
+    "url": "https://www.timelygrader.ai",
     "tags": [
       "AI Education Assistant"
     ]
   },
   {
-    "title": "floatz AI",
-    "description": "Supercharge Your Research, with AI.",
-    "url": "https://floatz.ai/product?utm_source=toolify",
+    "title": "Kupid AI - Chat with AI Girls",
+    "description": "Virtual companionship through immersive conversations.",
+    "url": "https://kupid.ai/",
     "tags": [
-      "AI Search Engine",
-      "Research Tool",
-      "AI Chatbot"
+      "AI Dating Assistant"
     ]
   },
   {
     "title": "AI Content Detector",
     "description": "Detects AI-generated content for free using advanced algorithms.",
-    "url": "/tool/ai-content-detector",
+    "url": "https://seoroast.co/tools/ai-content-detector",
     "tags": [
       "AI SEO Assistant",
       "AI Detector",
@@ -1297,7 +693,7 @@
   {
     "title": "AudioMuse",
     "description": "Comprehensive online tools for music generation and audio editing.",
-    "url": "/tool/audiomuse",
+    "url": "https://audiomuse.ai",
     "tags": [
       "AI Audio Enhancer",
       "AI Music Generator"
@@ -1306,7 +702,7 @@
   {
     "title": "FREE AI Meta Description Generator",
     "description": "Generate SEO-optimized meta descriptions for web pages.",
-    "url": "/tool/free-ai-meta-description-generator",
+    "url": "https://seoroast.co/tools/meta-description",
     "tags": [
       "AI SEO Assistant"
     ]
@@ -1314,7 +710,7 @@
   {
     "title": "YouTube Title Generator",
     "description": "Generates clickbait YouTube titles to boost engagement.",
-    "url": "/tool/youtube-title-generator",
+    "url": "https://seoroast.co/tools/youtube-title-generator",
     "tags": [
       "AI YouTube Assistant",
       "AI SEO Assistant",
@@ -1324,7 +720,7 @@
   {
     "title": "AI Tweet Generator",
     "description": "Generate engaging tweets to boost social media interaction.",
-    "url": "/tool/ai-tweet-generator",
+    "url": "https://seoroast.co/tools/tweet-generator",
     "tags": [
       "AI SEO Assistant"
     ]
@@ -1332,7 +728,7 @@
   {
     "title": "SEO Title Generator",
     "description": "Generate SEO-optimized titles for your web pages easily.",
-    "url": "/tool/seo-title-generator",
+    "url": "https://seoroast.co/tools/seo-title-generator",
     "tags": [
       "AI SEO Assistant"
     ]
@@ -1340,7 +736,7 @@
   {
     "title": "AI Roast Generator",
     "description": "AI-powered tool for generating hilarious roasts and comebacks.",
-    "url": "/tool/ai-roast-generator",
+    "url": "https://seoroast.co/tools/ai-roast-generator",
     "tags": [
       "AI SEO Assistant"
     ]
@@ -1348,7 +744,7 @@
   {
     "title": "RemoteSpace",
     "description": "RemoteSpace is an innovative platform designed to transform any online tool into a secure collaboration space. It allows users to manage multiple accounts, invite teammates, and set permissions without sharing passwords. RemoteSpace features seamless project collaboration and real-time communication capabilities, enabling simultaneous access to multiple accounts without the need for additional devices, thereby enhancing productivity. The platform prioritizes user privacy and data security, employing strong measures such as AI diagnostics and a zero-trust architecture to ensure that activities are isolated from personal information. Experience the future of teamwork with RemoteSpace, where collaboration knows no bounds.",
-    "url": "/tool/remotespace",
+    "url": "https://www.remotespace.ai",
     "tags": [
       "AI Productivity Tools",
       "AI Team Collaboration"
@@ -1357,7 +753,7 @@
   {
     "title": "Headshot Maker",
     "description": "AI tool for generating professional headshots quickly.",
-    "url": "/tool/headshot-maker",
+    "url": "https://headshotmaker.ai",
     "tags": [
       "AI Avatar Generator",
       "AI Photo & Image Generator",
@@ -1367,7 +763,7 @@
   {
     "title": "MinutesLink",
     "description": "AI note taker for accurate meeting minutes.",
-    "url": "/tool/minuteslink",
+    "url": "https://minuteslink.com",
     "tags": [
       "AI Notes Assistant",
       "AI Meeting Assistant",
@@ -1377,7 +773,7 @@
   {
     "title": "EchoWave",
     "description": "Convert audio into videos for social media platforms.",
-    "url": "/tool/echowave",
+    "url": "https://echowave.io",
     "tags": [
       "AI Podcast Assistant",
       "AI Video Editor",
@@ -1387,7 +783,7 @@
   {
     "title": "Alice AI",
     "description": "Alice AI is a no-filter chatbot where you can design your own AI companion or explore unique creations in Wonderland, featuring voice calls, image generation, and endless customization.",
-    "url": "/tool/alice-ai",
+    "url": "https://alice-ai.com/",
     "tags": [
       "Text to Image",
       "AI Photo & Image Generator",
@@ -1397,7 +793,7 @@
   {
     "title": "Octoparse AI - Workflow Automation Software",
     "description": "Octoparse AI is a no-code platform for quickly creating custom AI processes and RPA bots that work for you.",
-    "url": "/tool/octoparse-ai-workflow-automation-software",
+    "url": "https://www.octoparse.ai/",
     "tags": [
       "No-Code&Low-Code",
       "Research Tool",
@@ -1407,34 +803,15 @@
   {
     "title": "AIChatru.ru: Free Chat with GPT and Claude AI",
     "description": "Chat with GPT-4o, GPT-4o Mini, and Claude 3 AI models for free, no login required.",
-    "url": "/tool/aichatru-ru-free-chat-with-gpt-and-claude-ai",
+    "url": "https://aichatru.ru",
     "tags": [
       "AI Chatbot"
     ]
   },
   {
-    "title": "AsoLift",
-    "description": "All-in-one ASO tool for app visibility and downloads.",
-    "url": "/tool/asolift",
-    "tags": [
-      "AI Analytics Assistant",
-      "AI SEO Assistant"
-    ]
-  },
-  {
-    "title": "Botify AI",
-    "description": "Chat with diverse AI characters from various genres.",
-    "url": "/tool/botify-ai",
-    "tags": [
-      "AI Chatbot",
-      "AI Character",
-      "AI Photo & Image Generator"
-    ]
-  },
-  {
     "title": "OpenAI01.net",
     "description": "Free AI chat interface for advanced problem-solving.",
-    "url": "/tool/openai01-net",
+    "url": "https://openai01.net",
     "tags": [
       "AI Chatbot"
     ]
@@ -1442,7 +819,7 @@
   {
     "title": "healingjourney",
     "description": "Healing Journey is one of the top AI therapy platforms, trained by real therapists, offering 24/7 confidential mental health support. It combines professional guidance with advanced technology to ensure privacy and well-being.",
-    "url": "/tool/healingjourney",
+    "url": "https://healingjourney.ai",
     "tags": [
       "Life Assistant",
       "Healthcare",
@@ -1452,7 +829,7 @@
   {
     "title": "aoGen",
     "description": "An all-in-one ecommerce creative solution to get professional model photos for free.",
-    "url": "/tool/aogen",
+    "url": "https://aogen.ai",
     "tags": [
       "Image to Video",
       "AI Clothing Generator",
@@ -1460,36 +837,28 @@
     ]
   },
   {
-    "title": "Wonderchat",
-    "description": "Create custom chatbot with Wonderchat, boost customer response speed by 100% and reduce workload.",
-    "url": "https://wonderchat.io?utm_source=toolify",
+    "title": "Nume",
+    "description": "The AI CFO every founder needs",
+    "url": "https://www.nume.finance/",
     "tags": [
-      "AI Chatbot",
-      "AI Reply Assistant",
-      "Large Language Models (LLMs)"
+      "AI Accounting Assistant",
+      "AI Consulting Assistant",
+      "AI Spreadsheet"
     ]
   },
   {
     "title": "AI ColoringBook",
     "description": "Free AI generator for custom coloring pages from images and text.",
-    "url": "/tool/ai-coloringbook",
+    "url": "https://www.coloringbook.ai",
     "tags": [
       "AI Art Generator",
       "AI Photo & Image Generator"
     ]
   },
   {
-    "title": "cc:Monet Home - AI Finance Assistant",
-    "description": "AI assistant that streamlines invoicing and bookkeeping tasks.",
-    "url": "/tool/cc-monet-home",
-    "tags": [
-      "AI Accounting Assistant"
-    ]
-  },
-  {
     "title": "Nextoffer",
     "description": "Land Your Dream Job with Confidence. NextOffer provides real-time assistance, AI-driven mock interviews, and personalized feedback to help you secure your next offer.",
-    "url": "/tool/nextoffer",
+    "url": "https://www.thenextoffer.com",
     "tags": [
       "AI Interview Assistant",
       "AI Coaching",
@@ -1499,7 +868,7 @@
   {
     "title": "VisionStory AI",
     "description": "VisionStory AI creates avatar videos with photos, voice cloning and more, expressively and instantly.",
-    "url": "/tool/visionstory-ai",
+    "url": "https://www.visionstory.ai",
     "tags": [
       "AI Personalized Video Generator",
       "AI Video Generator",
@@ -1509,7 +878,7 @@
   {
     "title": "Poly AI",
     "description": "AI Roleplay: Secure, Free Chat, No Limits!",
-    "url": "/tool/poly-ai",
+    "url": "https://polyai.ai/",
     "tags": [
       "AI Chatbot",
       "AI Girlfriend",
@@ -1519,7 +888,7 @@
   {
     "title": "Cabina.AI",
     "description": "All-in-one AI Chats workspace: productivity, communication & education",
-    "url": "/tool/cabina-ai",
+    "url": "https://cabina.ai",
     "tags": [
       "AI Chatbot",
       "Copywriting",
@@ -1529,7 +898,7 @@
   {
     "title": "Syntetica",
     "description": "Syntetica, your Generative AI suite",
-    "url": "/tool/syntetica-ai",
+    "url": "https://syntetica.ai",
     "tags": [
       "AI Workflow Management",
       "AI Mind Mapping"
@@ -1538,7 +907,7 @@
   {
     "title": "GraphicInfo",
     "description": "AI-Powered Infographic Creation - Turn content into compelling visuals in 1 click",
-    "url": "/tool/graphicinfo",
+    "url": "https://graphicinfo.cc/",
     "tags": [
       "AI Poster Generator",
       "AI Graphic Design",
@@ -1548,7 +917,7 @@
   {
     "title": "SmartStudi.com",
     "description": "",
-    "url": "/tool/smartstudi-com",
+    "url": "https://smartstudi.com",
     "tags": [
       "Essay Writer",
       "AI Rewriter",
@@ -1558,7 +927,7 @@
   {
     "title": "Knowee AI",
     "description": "Knowee AI combines the power of AI with a user-friendly interface, offering college students a seamless study experience.",
-    "url": "/tool/knowee-ai",
+    "url": "https://knowee.ai",
     "tags": [
       "Homework Helper",
       "AI Coaching",
@@ -1568,7 +937,7 @@
   {
     "title": "AIApply",
     "description": "AI-powered job search automation for resume and cover letter generation.",
-    "url": "/tool/aiapply",
+    "url": "https://www.aiapply.co/",
     "tags": [
       "Writing Assistants",
       "AI Content Generator",
@@ -1578,7 +947,7 @@
   {
     "title": "EroPlay.ai",
     "description": "AI-powered erotic roleplay for immersive fantasy exploration.",
-    "url": "/tool/eroplay-ai",
+    "url": "https://eroplay.ai",
     "tags": [
       "AI Girlfriend",
       "AI Character",
@@ -1586,36 +955,9 @@
     ]
   },
   {
-    "title": "AI MathGPT",
-    "description": "AI-powered math tutor for step-by-step problem-solving.",
-    "url": "/tool/ai-mathgpt",
-    "tags": [
-      "Homework Helper",
-      "AI Education Assistant"
-    ]
-  },
-  {
-    "title": "Tattoon.ai",
-    "description": "AI tool for generating custom tattoo designs.",
-    "url": "/tool/tattoon-ai",
-    "tags": [
-      "AI Art Generator",
-      "AI Tattoo Generator",
-      "AI Design Generator"
-    ]
-  },
-  {
-    "title": "Dang.ai",
-    "description": "An extensive directory of AI tools covering multiple categories.",
-    "url": "/tool/dang-ai",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "Uhmegle",
     "description": "Explore AI moderated video and text chats with strangers globally.",
-    "url": "/tool/uhmegle",
+    "url": "https://uhmegle.com",
     "tags": [
       "Other"
     ]
@@ -1623,7 +965,7 @@
   {
     "title": "DressPlay",
     "description": "DressPlay is an innovative AI Clothes Changer app designed for users who enjoy exploring different styles and for e-commerce businesses.",
-    "url": "/tool/dressplay",
+    "url": "https://dressplay.ai",
     "tags": [
       "AI Photo & Image Generator",
       "Photo & Image Editor",
@@ -1631,27 +973,9 @@
     ]
   },
   {
-    "title": "Bizchaty",
-    "description": "A WhatsApp marketing platform for real-time customer engagement.",
-    "url": "/tool/bizchaty-whatsapp-marketing-platform",
-    "tags": [
-      "AI Customer Service Assistant",
-      "AI Chatbot",
-      "AI Reply Assistant"
-    ]
-  },
-  {
-    "title": "BidPacer",
-    "description": "AI tool for creating custom freelance job proposals.",
-    "url": "/tool/bidpacer",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
     "title": "Soul Machines",
     "description": "Founded in 2016, Soul Machines is a global pioneer in the humanization of AI. Our patented, ground-breaking Experiential AI™ technology powers emotionally intelligent AI Assistants that create personalized, interactive digital engagement in real time.",
-    "url": "https://www.soulmachines.com?utm_source=toolify",
+    "url": "https://www.soulmachines.com",
     "tags": [
       "AI Avatar Generator",
       "AI Interview Assistant",
@@ -1659,314 +983,18 @@
     ]
   },
   {
-    "title": "TarsyAI",
-    "description": "Build AI assistants without coding for various business needs.",
-    "url": "/tool/tarsyai",
-    "tags": [
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "Recipe Lens",
-    "description": "AI-powered app for identifying dishes and creating custom recipes.",
-    "url": "/tool/recipe-lens",
-    "tags": [
-      "AI Cooking Assistant",
-      "AI Recipe Assistant",
-      "AI Image Recognition"
-    ]
-  },
-  {
-    "title": "HyperStart",
-    "description": "AI-powered SaaS for contract lifecycle management.",
-    "url": "/tool/hyperstart-clm",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "ZeeInvoices",
-    "description": "Free AI-powered personalized invoices for businesses.",
-    "url": "/tool/zeeinvoices",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Datacog",
-    "description": "AI platform for data analytics and decision-making.",
-    "url": "/tool/data-analytics-for-smb",
-    "tags": [
-      "AI Analytics Assistant",
-      "AI Knowledge Base",
-      "AI Knowledge Graph"
-    ]
-  },
-  {
-    "title": "Describy",
-    "description": "AI voice tool for collecting user feedback effectively.",
-    "url": "/tool/describy",
-    "tags": [
-      "AI Forms & Surveys",
-      "AI Analytics Assistant",
-      "AI Response Generator"
-    ]
-  },
-  {
-    "title": "Free Moondream2 Generator",
-    "description": "API for image uploads generating detailed descriptions.",
-    "url": "/tool/free-moondream-generator",
-    "tags": [
-      "AI Response Generator",
-      "AI Photo & Image Generator"
-    ]
-  },
-  {
-    "title": "MyInterviewSkill",
-    "description": "AI-powered platform for interview skill improvement via gamification.",
-    "url": "/tool/gamified-interview-training",
-    "tags": [
-      "AI Interview Assistant"
-    ]
-  },
-  {
-    "title": "Feedscope",
-    "description": "Tool for analyzing user feedback and prioritizing feature requests.",
-    "url": "/tool/feedscope",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "TallyPost",
-    "description": "AI-powered tool for LinkedIn content creation and scheduling.",
-    "url": "/tool/tallypost",
-    "tags": [
-      "AI Social Media Assistant"
-    ]
-  },
-  {
-    "title": "Movie.so",
-    "description": "AI movie assistance for recommendations, plots, and spoilers.",
-    "url": "/tool/your-ai-powered-movie-companion",
-    "tags": [
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "Inkpen AI Text Humanizer",
-    "description": "Tool for humanizing AI text and avoiding detection.",
-    "url": "/tool/inkpen-ai-text-humanizer",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Crayon AI",
-    "description": "AI toolbox for image generation, editing, and optimization.",
-    "url": "/tool/crayon-ai",
-    "tags": [
-      "AI Photo & Image Generator",
-      "AI Image Enhancer",
-      "Photo & Image Editor"
-    ]
-  },
-  {
-    "title": "AI Resume Optimizer",
-    "description": "AI tool for optimizing resumes and cover letters for job applications.",
-    "url": "/tool/wundercv-com",
-    "tags": [
-      "Resume Builder",
-      "Cover Letter Generator",
-      "Letter Writer"
-    ]
-  },
-  {
-    "title": "bioloGPT",
-    "description": "Interactive biology Q&A platform with insights and graphs.",
-    "url": "/tool/biologpt",
-    "tags": [
-      "AI Bio Generator",
-      "AI Knowledge Graph",
-      "Research Tool"
-    ]
-  },
-  {
-    "title": "SayStory AI",
-    "description": "Voice-to-AI platform for thought leadership content creation",
-    "url": "/tool/saystory",
-    "tags": [
-      "AI Content Generator",
-      "Writing Assistants"
-    ]
-  },
-  {
-    "title": "Tech Tool Decode",
-    "description": "AI tools evaluation for startups & developers",
-    "url": "/tool/tech-tool-decode",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "MagicAI",
-    "description": "Free AI image generator and art creator",
-    "url": "/tool/immagicai",
-    "tags": [
-      "Video to Video",
-      "AI Photo & Image Generator",
-      "Image to Image"
-    ]
-  },
-  {
-    "title": "Interagix",
-    "description": "AI-powered social media interactions automation",
-    "url": "/tool/interagix",
-    "tags": [
-      "AI Reply Assistant",
-      "AI Social Media Assistant",
-      "AI Response Generator"
-    ]
-  },
-  {
     "title": "Vidu AI",
     "description": "AI tool for generating high-quality videos from text and images.",
-    "url": "https://www.vidu.com/create?utm_source=toolify",
+    "url": "https://www.vidu.com/create",
     "tags": [
       "Text to Video",
       "AI Video Generator"
     ]
   },
   {
-    "title": "JobSynergy",
-    "description": "AI platform for real-time video interviews",
-    "url": "/tool/jobsynergy",
-    "tags": [
-      "AI Interview Assistant",
-      "AI Recruiting"
-    ]
-  },
-  {
-    "title": "DreamOracle",
-    "description": "AI-powered dream interpretation tool",
-    "url": "/tool/dreamoracle",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Company Values Generator",
-    "description": "Automated AI tool for defining company values",
-    "url": "/tool/company-values-generator",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Ivie",
-    "description": "AI solution for qualitative user feedback",
-    "url": "/tool/ivie",
-    "tags": [
-      "AI Analytics Assistant",
-      "AI Reviews Assistant",
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "TapTalent.ai",
-    "description": "All-in-one talent outreach and hiring solution",
-    "url": "/tool/taptalent",
-    "tags": [
-      "AI Recruiting"
-    ]
-  },
-  {
-    "title": "MeetMemos AI",
-    "description": "AI-powered Chrome extension for meeting transcriptions and summaries",
-    "url": "/tool/meetmemos-ai",
-    "tags": [
-      "Summarizer",
-      "Transcription",
-      "Transcriber"
-    ]
-  },
-  {
-    "title": "Leap AI SEO Platform",
-    "description": "AI SEO tool for high-quality SEO content",
-    "url": "/tool/leap-ai-seo",
-    "tags": [
-      "AI Blog Writer",
-      "AI Content Generator",
-      "AI SEO Assistant"
-    ]
-  },
-  {
-    "title": "Novius AI Recruiter",
-    "description": "AI-driven HR solution for efficient hiring",
-    "url": "/tool/novius-ai-recruiter",
-    "tags": [
-      "AI Recruiting",
-      "Writing Assistants",
-      "AI Voice Assistants"
-    ]
-  },
-  {
-    "title": "Oshorts AI Videos",
-    "description": "AI-powered platform for creating short videos",
-    "url": "/tool/oshorts",
-    "tags": [
-      "AI Content Generator",
-      "Text to Video",
-      "AI Animated Video"
-    ]
-  },
-  {
-    "title": "Yescribe.ai",
-    "description": "AI transcription service for audio and video files",
-    "url": "/tool/yescribe-ai-convert-audio-video-to-text",
-    "tags": [
-      "Transcription",
-      "Transcriber"
-    ]
-  },
-  {
-    "title": "Jector Relight",
-    "description": "Lighting & shadows enhancement tool",
-    "url": "/tool/relight-scene-by-jector-ai",
-    "tags": [
-      "AI Photo & Image Generator"
-    ]
-  },
-  {
-    "title": "GitStart",
-    "description": "Elastic engineering capacity with AI-powered ticketing system",
-    "url": "/tool/gitstart-ai-ticket-studio",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "AtYou",
-    "description": "Generate unique usernames with AI",
-    "url": "/tool/atyou",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Junia AI",
-    "description": "AI writer for in-depth SEO content",
-    "url": "/tool/junia-ai-1",
-    "tags": [
-      "AI SEO Assistant",
-      "AI Blog Writer",
-      "AI Content Generator"
-    ]
-  },
-  {
     "title": "DoubleO.ai",
     "description": "AI automation for non-developers",
-    "url": "/tool/doubleo-ai",
+    "url": "https://www.doubleo.ai",
     "tags": [
       "AI Analytics Assistant",
       "Large Language Models (LLMs)",
@@ -1976,7 +1004,7 @@
   {
     "title": "PDF GPT",
     "description": "AI chat app for PDF documents",
-    "url": "/tool/pdf-gpt",
+    "url": "https://www.pdfgpt.chat",
     "tags": [
       "AI PDF",
       "Summarizer"
@@ -1985,7 +1013,7 @@
   {
     "title": "MEME is Game",
     "description": "AI insights for discovering the best meme coins",
-    "url": "/tool/meme-is-game",
+    "url": "https://memeisgame.com",
     "tags": [
       "Blockchain"
     ]
@@ -1993,19 +1021,9 @@
   {
     "title": "Aethera AI",
     "description": "AI knowledge discovery and management platform",
-    "url": "/tool/aethera-ai",
+    "url": "https://aethera.ai",
     "tags": [
       "AI Knowledge Management"
-    ]
-  },
-  {
-    "title": "Ssemble YouTube Shorts Maker",
-    "description": "AI-powered video clip creator",
-    "url": "/tool/ssemble-youtube-shorts-maker",
-    "tags": [
-      "Captions or Subtitle",
-      "AI Short Clips Generator",
-      "AI Video Editor"
     ]
   },
   {
@@ -2019,56 +1037,9 @@
     ]
   },
   {
-    "title": "AI Insult Generator",
-    "description": "AI insult generator for personalized and creative insults",
-    "url": "/tool/ai-insult-generator",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "YouCam AI & AR Business Solutions",
-    "description": "AI & AR solutions for beauty, fashion, and skincare",
-    "url": "/tool/youcam-ai-ar-business-solutions",
-    "tags": [
-      "Life Assistant",
-      "Healthcare"
-    ]
-  },
-  {
-    "title": "Infinity AI",
-    "description": "Generative video models focused on people",
-    "url": "/tool/infinity-ai",
-    "tags": [
-      "Prompt",
-      "AI Script Writing",
-      "AI Animated Video"
-    ]
-  },
-  {
-    "title": "Holara - Anime Image Generation",
-    "description": "AI platform for creating anime artwork",
-    "url": "/tool/holara-anime-image-generation",
-    "tags": [
-      "AI Anime Art",
-      "Prompt",
-      "Text to Image"
-    ]
-  },
-  {
-    "title": "Hocoos AI Website Builder",
-    "description": "AI website builder for small businesses",
-    "url": "/tool/hocoos-ai-website-builder",
-    "tags": [
-      "AI Website Builder",
-      "AI Logo Generator",
-      "Photo & Image Editor"
-    ]
-  },
-  {
     "title": "Free ChatGPT Omni",
     "description": "Free AI chat platform",
-    "url": "/tool/free-chatgpt-omni",
+    "url": "https://gptomni.ai",
     "tags": [
       "AI Chatbot"
     ]
@@ -2076,7 +1047,7 @@
   {
     "title": "Adinspiration",
     "description": "Competitor ad analysis tool",
-    "url": "/tool/adinspiration",
+    "url": "https://adinspiration.com",
     "tags": [
       "AI Advertising Assistant",
       "AI Facebook Assistant",
@@ -2084,19 +1055,9 @@
     ]
   },
   {
-    "title": "Siuuu AI",
-    "description": "AI writing tools for writers, students, educators, and marketers",
-    "url": "/tool/siuuu-ai",
-    "tags": [
-      "Writing Assistants",
-      "AI Blog Writer",
-      "General Writing"
-    ]
-  },
-  {
     "title": "Essence - Read Smarter",
     "description": "Tool for quick and accurate web article summaries",
-    "url": "/tool/essence-read-smarter",
+    "url": "https://chromewebstore.google.com/detail/essence-read-smarter/hadahojdmedaiceckgdidakkppoghfci",
     "tags": [
       "Summarizer"
     ]
@@ -2104,7 +1065,7 @@
   {
     "title": "Opulli",
     "description": "AI fashion model platform for clothing brands",
-    "url": "/tool/opulli",
+    "url": "https://www.opulli.com",
     "tags": [
       "AI Analytics Assistant",
       "AI Email Marketing",
@@ -2114,7 +1075,7 @@
   {
     "title": "Moonidea",
     "description": "AI-powered SAAS idea generation from Reddit threads",
-    "url": "/tool/moonidea",
+    "url": "https://moonidea.com",
     "tags": [
       "AI Business Ideas Generator"
     ]
@@ -2122,7 +1083,7 @@
   {
     "title": "MusicHero.ai: Free AI Music Generator from Text Online",
     "description": "Free AI music generator from text",
-    "url": "/tool/musichero-ai-free-ai-music-generator-from-text-online",
+    "url": "https://musichero.ai",
     "tags": [
       "AI Music Generator"
     ]
@@ -2130,7 +1091,7 @@
   {
     "title": "Soundify",
     "description": "AI sound effects generator",
-    "url": "/tool/soundify",
+    "url": "https://soundifytext.io",
     "tags": [
       "AI Music Generator"
     ]
@@ -2138,7 +1099,7 @@
   {
     "title": "Copyter",
     "description": "AI text generator for creating diverse, high-quality content",
-    "url": "/tool/copyter",
+    "url": "https://copyter.com",
     "tags": [
       "AI Content Generator",
       "Copywriting",
@@ -2148,7 +1109,7 @@
   {
     "title": "Video Maker Free Online Powered by Luma AI",
     "description": "AI video generator for text and photos",
-    "url": "/tool/video-maker-free-online-powered-by-luma-ai",
+    "url": "https://videomaker.me",
     "tags": [
       "Text to Video",
       "AI Video Generator",
@@ -2158,7 +1119,7 @@
   {
     "title": "Currency Converter",
     "description": "Live currency converter for USD to CNY",
-    "url": "/tool/currency-converter",
+    "url": "https://www.xtransfer.com/exchange-rate/usd-to-cny",
     "tags": [
       "AI Customer Service Assistant"
     ]
@@ -2166,7 +1127,7 @@
   {
     "title": "SaaSykit",
     "description": "Accelerate SaaS development",
-    "url": "/tool/saasykit",
+    "url": "https://saasykit.com",
     "tags": [
       "AI Website Designer",
       "E-commerce Assistant",
@@ -2176,7 +1137,7 @@
   {
     "title": "HeyHoney.ai",
     "description": "NSFW AI Sex Chatbot for flirty banter and naughty fun.",
-    "url": "/tool/heyhoney-ai",
+    "url": "https://heyhoney.ai",
     "tags": [
       "AI Chatbot",
       "AI Girlfriend",
@@ -2186,7 +1147,7 @@
   {
     "title": "Lingolette",
     "description": "Language teaching machine for spoken fluency",
-    "url": "/tool/lingolette",
+    "url": "https://lingolette.com",
     "tags": [
       "AI Chatbot"
     ]
@@ -2194,7 +1155,7 @@
   {
     "title": "HS Code Search",
     "description": "Secure global trade payments.",
-    "url": "/tool/hs-code-search",
+    "url": "https://www.xtransfer.com/hscode",
     "tags": [
       "Other"
     ]
@@ -2202,7 +1163,7 @@
   {
     "title": "Vidalgo",
     "description": "Effortless vertical video creation for top social platforms.",
-    "url": "/tool/vidalgo",
+    "url": "https://www.vidalgo.tech",
     "tags": [
       "AI Tiktok Assistant",
       "AI YouTube Assistant",
@@ -2212,7 +1173,7 @@
   {
     "title": "Treasure Box",
     "description": "Diverse assistants for productivity enhancement.",
-    "url": "/tool/treasure-box",
+    "url": "http://www.liaoliao.love",
     "tags": [
       "AI Chatbot",
       "Writing Assistants"
@@ -2221,122 +1182,15 @@
   {
     "title": "FliFlik Voice Changer",
     "description": "Voice changer for games and streaming.",
-    "url": "/tool/fliflik-voice-changer",
+    "url": "https://fliflik.com/voice-changer",
     "tags": [
       "AI Voice Changer"
     ]
   },
   {
-    "title": "AISlash.IO",
-    "description": "Powerful content generation tool",
-    "url": "/tool/aislash-io",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Summarize This Article",
-    "description": "Chrome extension for article summarization",
-    "url": "/tool/summarize-this-article",
-    "tags": [
-      "Summarizer"
-    ]
-  },
-  {
-    "title": "No Limits Chat GPT",
-    "description": "Revolutionize browsing with AI chat.",
-    "url": "/tool/no-limits-chat-gpt-silver",
-    "tags": [
-      "Text to Image",
-      "AI Photo & Image Generator"
-    ]
-  },
-  {
-    "title": "GPTDrive",
-    "description": "AI chatbot conversation manager",
-    "url": "/tool/gptdrive-mobile-hub-for-chatgpt-bard-bing",
-    "tags": [
-      "AI Chatbot",
-      "Large Language Models (LLMs)"
-    ]
-  },
-  {
-    "title": "Dealflow Outreach",
-    "description": "Enhance LinkedIn outreach with AI",
-    "url": "/tool/dealflow-outreach-linkedin-automation",
-    "tags": [
-      "AI Lead Generation",
-      "Sales Assistant",
-      "AI Analytics Assistant"
-    ]
-  },
-  {
-    "title": "Stanza AI",
-    "description": "AI-powered email drafting tool",
-    "url": "/tool/stanza-ai-chatgpt-ai-gmail-writing-assistant",
-    "tags": [
-      "AI Reply Assistant",
-      "AI Email Assistant",
-      "AI Email Generator"
-    ]
-  },
-  {
-    "title": "Pro Caller",
-    "description": "Enhancing Google Meet interactions with auto-recording and AI insights.",
-    "url": "/tool/sales-stack-pro-caller",
-    "tags": [
-      "AI Meeting Assistant",
-      "AI Analytics Assistant",
-      "AI Notes Assistant"
-    ]
-  },
-  {
-    "title": "HRBLADE",
-    "description": "Connect with talent on social media easily",
-    "url": "/tool/hrblade-talent-cliper",
-    "tags": [
-      "AI Recruiting",
-      "AI Social Media Assistant"
-    ]
-  },
-  {
-    "title": "One Paragraph",
-    "description": "Revolutionize information consumption with AI summaries.",
-    "url": "/tool/one-paragraph",
-    "tags": [
-      "Large Language Models (LLMs)"
-    ]
-  },
-  {
-    "title": "Laidle",
-    "description": "Automated grocery list generation from recipes.",
-    "url": "/tool/laidle",
-    "tags": [
-      "AI Recipe Assistant"
-    ]
-  },
-  {
-    "title": "SalesMate",
-    "description": "Enhance LinkedIn sales communication.",
-    "url": "/tool/salesmate",
-    "tags": [
-      "Sales Assistant",
-      "AI Lead Generation"
-    ]
-  },
-  {
-    "title": "QuickGPT AI Assistant",
-    "description": "AI companion for productivity and creativity.",
-    "url": "/tool/quickgpt-ai-assistant",
-    "tags": [
-      "Large Language Models (LLMs)",
-      "Life Assistant"
-    ]
-  },
-  {
     "title": "SmartPrep",
     "description": "Instant lesson planning",
-    "url": "/tool/smartprep-ai",
+    "url": "https://smartprep.ai",
     "tags": [
       "AI Education Assistant"
     ]
@@ -2344,7 +1198,7 @@
   {
     "title": "Hirebee",
     "description": "Revolutionizing talent acquisition.",
-    "url": "/tool/hirebee-ai",
+    "url": "https://hirebee.ai",
     "tags": [
       "AI Recruiting"
     ]
@@ -2352,7 +1206,7 @@
   {
     "title": "X Headshot",
     "description": "Professional AI headshots from selfies",
-    "url": "/tool/x-headshot",
+    "url": "https://xheadshot.com",
     "tags": [
       "AI Photo & Image Generator",
       "AI Selfie & Portrait"
@@ -2361,7 +1215,7 @@
   {
     "title": "APOB",
     "description": "AI persona creation tool",
-    "url": "/tool/apob-ai",
+    "url": "https://app.apob.ai",
     "tags": [
       "AI Photo & Image Generator"
     ]
@@ -2369,7 +1223,7 @@
   {
     "title": "Promptzone",
     "description": "Creative prompts sharing platform",
-    "url": "/tool/promptzone",
+    "url": "https://promptzone.com",
     "tags": [
       "Prompt"
     ]
@@ -2377,7 +1231,7 @@
   {
     "title": "Linktopia",
     "description": "Community link building for SaaS startups",
-    "url": "/tool/linktopia",
+    "url": "https://linktopia.io",
     "tags": [
       "AI SEO Assistant",
       "AI Blog Writer"
@@ -2386,7 +1240,7 @@
   {
     "title": "LingoSub",
     "description": "Watch videos with subtitles to learn new words in context",
-    "url": "/tool/lingosub",
+    "url": "https://www.lingosub.com",
     "tags": [
       "Captions or Subtitle"
     ]
@@ -2394,7 +1248,7 @@
   {
     "title": "ZeroGPT",
     "description": "AI plagiarism checker",
-    "url": "/tool/zerogpt-tools",
+    "url": "https://zerogpt.tools",
     "tags": [
       "AI Detector",
       "AI Plagiarism Checker",
@@ -2404,7 +1258,7 @@
   {
     "title": "VirtualFantasy.ai",
     "description": "Virtual fantasy caters to those seeking a friend without the burden of judgment, drama, or social anxiety. Form genuine emotional connections, share laughter, and converse about anything that piques your interest! Each character is distinct, reflecting the unique qualities of every user. Reacting to your AI's messages aids in refining their conversational skills and understanding of your preferences.",
-    "url": "/tool/virtual-fantasy-ai",
+    "url": "https://www.virtualfantasy.ai",
     "tags": [
       "NSFW",
       "AI Girlfriend",
@@ -2412,61 +1266,9 @@
     ]
   },
   {
-    "title": "LLM Price Check",
-    "description": "Compare LLM API prices instantly",
-    "url": "/tool/llm-price-check",
-    "tags": [
-      "Large Language Models (LLMs)",
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "LLM Labs",
-    "description": "Compare and test language models.",
-    "url": "/tool/llm-labs",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "Neurelo",
-    "description": "AI-powered database APIs",
-    "url": "/tool/neurelo",
-    "tags": [
-      "AI Lead Generation"
-    ]
-  },
-  {
-    "title": "Stream of Consciousness",
-    "description": "AI artist sharing daily thoughts.",
-    "url": "/tool/stream-of-consciousness",
-    "tags": [
-      "AI Art Generator",
-      "AI Photo & Image Generator"
-    ]
-  },
-  {
-    "title": "100 UI/UX Tips",
-    "description": "Design interfaces for happy users",
-    "url": "/tool/100-ui-ux-tips",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "whatwide.ai",
-    "description": "AI tool for image and document generation.",
-    "url": "/tool/whatwide-ai",
-    "tags": [
-      "AI Chatbot",
-      "Large Language Models (LLMs)",
-      "AI Analytics Assistant"
-    ]
-  },
-  {
     "title": "TinderProfile.ai",
     "description": "Boost dating profile with AI photos",
-    "url": "/tool/tinderprofile-ai",
+    "url": "https://tinderprofile.ai/",
     "tags": [
       "AI Profile Picture Generator",
       "AI Photo & Image Generator",
@@ -2476,7 +1278,7 @@
   {
     "title": "Undress AI Tool",
     "description": "Undress images for free",
-    "url": "/tool/undress-ai-tool",
+    "url": "https://www.undressaitool.com",
     "tags": [
       "Photo & Image Editor",
       "AI Photo & Image Generator",
@@ -2486,7 +1288,7 @@
   {
     "title": "funfun.tools",
     "description": "Discover top AI tools",
-    "url": "/tool/funfun",
+    "url": "https://www.funfun.tools",
     "tags": [
       "AI Tools Directory",
       "AI Analytics Assistant"
@@ -2495,7 +1297,7 @@
   {
     "title": "Lutra AI",
     "description": "AI workflow automation without coding.",
-    "url": "/tool/lutra-ai",
+    "url": "https://lutra.ai",
     "tags": [
       "AI Workflow Management",
       "AI Lead Generation",
@@ -2505,7 +1307,7 @@
   {
     "title": "uBrand",
     "description": "Create brands with AI",
-    "url": "/tool/ubrand",
+    "url": "https://ubrand.com",
     "tags": [
       "AI Graphic Design",
       "AI Logo Generator",
@@ -2515,7 +1317,7 @@
   {
     "title": "AI Portrait Gen",
     "description": "Create realistic portraits of yourself that look like professional photos",
-    "url": "/tool/ai-portrait-gen",
+    "url": "https://aiportraitgen.com",
     "tags": [
       "AI Photo & Image Generator",
       "AI Avatar Generator",
@@ -2525,7 +1327,7 @@
   {
     "title": "bugfree.ai",
     "description": "bugfree.ai is an advanced AI-powered platform designed to help software engineers master system design and behavioral interviews, by combining a vast question library, detailed feedback, and interactive AI simulations.",
-    "url": "/tool/bugfree-ai",
+    "url": "https://bugfree.ai",
     "tags": [
       "AI Interview Assistant",
       "AI Coaching",
@@ -2535,7 +1337,7 @@
   {
     "title": "My Color Analysis AI",
     "description": "AI tool for personalized seasonal color analysis.",
-    "url": "/tool/my-color-analysis-ai",
+    "url": "https://mycoloranalysis.ai",
     "tags": [
       "AI Selfie & Portrait",
       "Photo & Image Editor"
@@ -2544,7 +1346,7 @@
   {
     "title": "XJoy AI",
     "description": "XJoy AI, a website that satisfies all fantasies XJoy AI is currently the most complete set of functions and the most powerful set of AI tools on the market. www.xjoy.ai includes: AI girlfriend, AI face changing,AI dance,AI undressing, AI sexy poses, xjoy.ai's AI chat has the function of generating scene pictures in real time, allowing you to be immersed in the scene and allowing you to do more interesting things with your AI girlfriend xjoy.ai's AI face-changing supports 8K high-definition long-term video and multi-person face-changing. xjoy.ai's AI dance function is currently an exclusive project on the entire Internet. Let anyone dance for you, come to xjoy.ai to experience it. xjoy.ai's undressAI function can more accurately take off anyone's clothes, and can adjust body shape, such as breast size, etc. xjoy.ai's undressing function can also generate short videos from a photo! The sexy photo album function of xjoy.ai can use a photo of anyone to generate multiple sets of sexy looks, and automatically generate a private photo album that belongs only to you.",
-    "url": "/tool/xjoy-ai",
+    "url": "https://www.xjoy.ai",
     "tags": [
       "AI Photo & Image Generator",
       "AI Cosplay Generator",
@@ -2554,7 +1356,7 @@
   {
     "title": "LoveAI API",
     "description": "Unbeatable Price! Get the Suno AI API for 90% Off",
-    "url": "/tool/loveai-api",
+    "url": "https://loveaiapi.com",
     "tags": [
       "AI API Design",
       "Web Scraping",
@@ -2564,7 +1366,7 @@
   {
     "title": "NEUROFIT App",
     "description": "Prevent burnout and improve focus and well-being in 5 mins/day.",
-    "url": "/tool/neurofit-app",
+    "url": "https://neurofit.app",
     "tags": [
       "Mental Health",
       "Fitness"
@@ -2573,7 +1375,7 @@
   {
     "title": "GenYOU",
     "description": "Free app for generating personalized AI portraits and photos.",
-    "url": "/tool/genyou",
+    "url": "https://generated.photos/genyou",
     "tags": [
       "AI Social Media Assistant",
       "AI Instagram Assistant",
@@ -2583,7 +1385,7 @@
   {
     "title": "Minimax AI",
     "description": "AI platform for generating high-resolution videos from text.",
-    "url": "/tool/minimax-ai",
+    "url": "https://minimax-ai.org",
     "tags": [
       "Prompt",
       "AI Video Recording",
@@ -2593,7 +1395,7 @@
   {
     "title": "AI Describe Picture",
     "description": "AI tool for generating image descriptions and extracting text.",
-    "url": "/tool/ai-describe-picture",
+    "url": "https://describepicture.org",
     "tags": [
       "AI Art Generator",
       "Prompt",
@@ -2603,7 +1405,7 @@
   {
     "title": "Flux AI",
     "description": "Advanced AI tools for generating images and videos",
-    "url": "/tool/flux-ai-ai",
+    "url": "https://flux-ai.io",
     "tags": [
       "AI Art Generator",
       "AI Anime Art",
@@ -2613,7 +1415,7 @@
   {
     "title": "Inkwise AI",
     "description": "AI platform for creating documents from uploaded files.",
-    "url": "/tool/inkwise-ai",
+    "url": "https://inkwise.ai",
     "tags": [
       "Legal Assistant",
       "AI Document Extraction",
@@ -2623,7 +1425,7 @@
   {
     "title": "Image to Prompt AI - Free Unlimited Online Tool",
     "description": "Convert images into detailed text prompts.",
-    "url": "/tool/image-to-prompt-ai-free-unlimited-online-tool",
+    "url": "https://imagetoprompt.ai",
     "tags": [
       "AI SEO Assistant",
       "Prompt",
@@ -2631,88 +1433,9 @@
     ]
   },
   {
-    "title": "I ♡ Transcriptions",
-    "description": "Unlimited audio/video transcriptions in multiple languages with high accuracy.",
-    "url": "/tool/i-transcriptions",
-    "tags": [
-      "AI PDF",
-      "Transcription",
-      "Transcriber"
-    ]
-  },
-  {
-    "title": "Smart Dictate",
-    "description": "Context-aware dictation and AI tool for enhanced productivity.",
-    "url": "/tool/smart-dictate",
-    "tags": [
-      "AI Productivity Tools",
-      "AI Email Assistant",
-      "AI Reply Assistant"
-    ]
-  },
-  {
-    "title": "Lobster Lead",
-    "description": "AI tool for SEO and content automation for businesses.",
-    "url": "/tool/lobster-lead",
-    "tags": [
-      "AI SEO Assistant",
-      "AI Blog Writer",
-      "Writing Assistants"
-    ]
-  },
-  {
-    "title": "Buckets",
-    "description": "AI tool for managing personal and business relationships.",
-    "url": "/tool/buckets",
-    "tags": [
-      "AI CRM Assistant",
-      "Newsletter"
-    ]
-  },
-  {
-    "title": "MindCopilot",
-    "description": "Enhanced UI for ChatGPT with unique features",
-    "url": "/tool/mindcopilot-a-better-ui-for-chatgpt",
-    "tags": [
-      "AI Chatbot",
-      "AI Character",
-      "AI Code Assistant"
-    ]
-  },
-  {
-    "title": "DishAI",
-    "description": "AI-powered cooking companion for personalized recipes.",
-    "url": "/tool/dishai",
-    "tags": [
-      "AI Cooking Assistant",
-      "AI Recipe Assistant",
-      "AI Image Scanning"
-    ]
-  },
-  {
-    "title": "SantaAI",
-    "description": "Interactive app offering personalized Santa experiences for kids.",
-    "url": "/tool/santaai",
-    "tags": [
-      "AI Facebook Assistant",
-      "AI Tiktok Assistant",
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "HelperHat",
-    "description": "AI-powered live chat service for websites, enhancing customer experience.",
-    "url": "/tool/helperhat",
-    "tags": [
-      "AI Chatbot",
-      "AI Customer Service Assistant",
-      "AI Knowledge Base"
-    ]
-  },
-  {
     "title": "AI Seed Phrase Finder",
     "description": "Efficiently find lost Bitcoin wallets with the AI Seed Phrase Finder.",
-    "url": "/tool/ai-seed-phrase-finder-btc-balance-checker-tool-for-windows-pc",
+    "url": "https://ai-seedfinder.com",
     "tags": [
       "Web3"
     ]
@@ -2720,7 +1443,7 @@
   {
     "title": "Voxify",
     "description": "Transform text to speech effortlessly with our AI voice generator.",
-    "url": "/tool/voxify",
+    "url": "https://voxify.ai",
     "tags": [
       "Text-to-Speech"
     ]
@@ -2728,175 +1451,15 @@
   {
     "title": "DATAKU",
     "description": "Effortlessly convert unstructured texts into structured data.",
-    "url": "/tool/dataku",
+    "url": "https://dataku.ai",
     "tags": [
       "AI Document Extraction"
     ]
   },
   {
-    "title": "PixAI - AI Art Generator",
-    "description": "Create stunning anime art effortlessly.",
-    "url": "/tool/pixai-ai-art-generator",
-    "tags": [
-      "AI Content Generator",
-      "AI Manga & Comic",
-      "AI Anime & Cartoon Generator"
-    ]
-  },
-  {
-    "title": "Aurk",
-    "description": "Enhance every pixel with clarity and detail.",
-    "url": "/tool/aurk",
-    "tags": [
-      "AI Product Description Generator",
-      "AI Image Enhancer",
-      "AI Photo Enhancer"
-    ]
-  },
-  {
-    "title": "BafCloud",
-    "description": "Simplify AI development with BafCloud",
-    "url": "/tool/bafcloud",
-    "tags": [
-      "AI Developer Tools",
-      "Large Language Models (LLMs)",
-      "AI Tools Directory"
-    ]
-  },
-  {
-    "title": "Inbox Zero",
-    "description": "Clean up your inbox in minutes.",
-    "url": "/tool/inbox-zero",
-    "tags": [
-      "AI Analytics Assistant",
-      "AI Reply Assistant",
-      "AI Email Assistant"
-    ]
-  },
-  {
-    "title": "Jetcounter",
-    "description": "AI-based object counting app",
-    "url": "/tool/jetcounter",
-    "tags": [
-      "AI Image Recognition",
-      "AI App Builder",
-      "AI Detector"
-    ]
-  },
-  {
-    "title": "Link:RE",
-    "description": "Explore and organize records easily.",
-    "url": "/tool/link-re",
-    "tags": [
-      "Other"
-    ]
-  },
-  {
-    "title": "CouponGPTs",
-    "description": "AI-powered tool for effortless coupon and promo code finds.",
-    "url": "/tool/coupongpts",
-    "tags": [
-      "AI Advertising Assistant"
-    ]
-  },
-  {
-    "title": "crAion",
-    "description": "Unveil the stories in your child's drawings using AI.",
-    "url": "/tool/craion",
-    "tags": [
-      "AI App Builder"
-    ]
-  },
-  {
-    "title": "speakSync - Voice Translator",
-    "description": "AI voice translation for 70+ languages.",
-    "url": "/tool/speaksync",
-    "tags": [
-      "Text-to-Speech",
-      "Speech-to-Text",
-      "AI Voice Changer"
-    ]
-  },
-  {
-    "title": "Epic Selfie",
-    "description": "Transform your selfies into epic images.",
-    "url": "/tool/epic-selfie",
-    "tags": [
-      "AI Photo & Image Generator",
-      "AI Avatar Generator",
-      "AI Profile Picture Generator"
-    ]
-  },
-  {
-    "title": "Rise of Machine",
-    "description": "Curated AI tools for makers.",
-    "url": "/tool/rise-of-machine",
-    "tags": [
-      "Writing Assistants",
-      "AI Content Generator",
-      "Text to Image"
-    ]
-  },
-  {
-    "title": "30-Min Planner",
-    "description": "Craft & Share 2024 Goals effortlessly.",
-    "url": "/tool/myyearinreview",
-    "tags": [
-      "AI Advertising Assistant"
-    ]
-  },
-  {
-    "title": "AnswerFlow AI",
-    "description": "Lifetime License for Unlimited ChatGPT Bots",
-    "url": "/tool/answerflow-ai",
-    "tags": [
-      "AI Chatbot"
-    ]
-  },
-  {
-    "title": "Limnr-AI",
-    "description": "Create personalized photorealistic AI photos",
-    "url": "/tool/limnr-ai",
-    "tags": [
-      "AI Photo & Image Generator",
-      "AI Art Generator",
-      "AI Design Generator"
-    ]
-  },
-  {
-    "title": "AskToSell",
-    "description": "Automate sales with autonomous AI agents.",
-    "url": "/tool/asktosell",
-    "tags": [
-      "AI Product Description Generator",
-      "Sales Assistant",
-      "AI Reply Assistant"
-    ]
-  },
-  {
-    "title": "Drawing Prompt",
-    "description": "AI-enhanced prompts for artists.",
-    "url": "/tool/drawing-prompt",
-    "tags": [
-      "Prompt",
-      "AI Art Generator",
-      "AI Design Generator"
-    ]
-  },
-  {
-    "title": "BabyStoryAI",
-    "description": "Personalized audiobooks for children using AI technology.",
-    "url": "/tool/babystoryai",
-    "tags": [
-      "AI Story Writing",
-      "AI Book Writing",
-      "AI Content Generator"
-    ]
-  },
-  {
     "title": "Powered_By",
     "description": "Custom AI agents tailored for small and medium-sized businesses.",
-    "url": "https://poweredby.agency?utm_source=toolify",
+    "url": "https://poweredby.agency",
     "tags": [
       "AI Voice Assistants"
     ]
@@ -2904,7 +1467,7 @@
   {
     "title": "Miro",
     "description": "Summary: Miro helps distributed teams collaborate and co-create efficiently across different locations.",
-    "url": "https://miro.com/ai?red=toolifc2273c&utm_source=toolifc2273c&utm_medium=cpa&utm_affiliate_network=reditus",
+    "url": "https://miro.com/ai",
     "tags": [
       "AI Team Collaboration",
       "AI Product Description Generator",
@@ -2914,7 +1477,7 @@
   {
     "title": "RivalOut - Rival Company Analysis and Comparison Platform",
     "description": "AI-Powered rival company analysis platform",
-    "url": "https://rivalout.com?utm_source=toolify",
+    "url": "https://rivalout.com",
     "tags": [
       "AI Analytics Assistant",
       "AI SEO Assistant"
@@ -2923,7 +1486,7 @@
   {
     "title": "Thor Data",
     "description": "Proxy service for web scraping providing anonymity and data access.",
-    "url": "https://www.thordata.com/?ls=dc&lk=toolai&utm_source=toolify",
+    "url": "https://www.thordata.com/",
     "tags": [
       "Web Scraping",
       "E-commerce Assistant",
@@ -2931,27 +1494,19 @@
     ]
   },
   {
-    "title": "freebeat.ai: Turn Your Music into Visual Magic",
-    "description": "Discover freebeat.ai: Your AI-Powered Music Video Creator",
-    "url": "https://freebeat.ai/?utm_source=toolifyai&utm_medium=referral&utm_campaign=toolifyai_20250314&utm_content=submittool",
+    "title": "14DaysOfAI",
+    "description": "Learn AI in 14 days with daily bitesized lessons delivered to your inbox.",
+    "url": "https://www.100school.com/atomic-challenges/14daysofai",
     "tags": [
-      "Fitness"
-    ]
-  },
-  {
-    "title": "Mysports AI",
-    "description": "Mysports.AI is a sports betting prediction tool that leverages advanced AI models to help you develop smarter and more successful strategies.",
-    "url": "https://mysports.ai?utm_source=toolify",
-    "tags": [
-      "AI Analytics Assistant",
-      "Sports",
-      "AI WORD"
+      "AI Coaching",
+      "AI Tutorial",
+      "AI Course"
     ]
   },
   {
     "title": "BrandGhost",
     "description": "Automation platform for content creators to manage social media effectively.",
-    "url": "https://brandghost.ai?utm_source=toolify",
+    "url": "https://brandghost.ai",
     "tags": [
       "AI Social Media Assistant",
       "AI Instagram Assistant",
@@ -2959,27 +1514,39 @@
     ]
   },
   {
-    "title": "Kupid AI - Chat with AI Girls",
-    "description": "Virtual companionship through immersive conversations.",
-    "url": "https://kupid.ai/?utm_source=toolify&sl=toolify",
+    "title": "Mysports AI",
+    "description": "Mysports.AI is a sports betting prediction tool that leverages advanced AI models to help you develop smarter and more successful strategies.",
+    "url": "https://mysports.ai",
     "tags": [
-      "AI Dating Assistant"
+      "AI Analytics Assistant",
+      "Sports",
+      "AI WORD"
     ]
   },
   {
-    "title": "Nume",
-    "description": "The AI CFO every founder needs",
-    "url": "https://www.nume.finance/?utm_source=toolify&utm_medium=listing&utm_campaign=waitlist-launch",
+    "title": "Wonderchat",
+    "description": "Create custom chatbot with Wonderchat, boost customer response speed by 100% and reduce workload.",
+    "url": "https://wonderchat.io",
     "tags": [
-      "AI Accounting Assistant",
-      "AI Consulting Assistant",
-      "AI Spreadsheet"
+      "AI Chatbot",
+      "AI Reply Assistant",
+      "Large Language Models (LLMs)"
+    ]
+  },
+  {
+    "title": "floatz AI",
+    "description": "Supercharge Your Research, with AI.",
+    "url": "https://floatz.ai/product",
+    "tags": [
+      "AI Search Engine",
+      "Research Tool",
+      "AI Chatbot"
     ]
   },
   {
     "title": "Trickle",
     "description": "Build stunning websites, AI apps, and forms effortlessly using natural language.",
-    "url": "https://www.trickle.so?utm_source=toolify",
+    "url": "https://www.trickle.so",
     "tags": [
       "AI Website Builder",
       "AI Code Generator",
@@ -2989,7 +1556,7 @@
   {
     "title": "Viro",
     "description": "AI tool for automated video thumbnail creation and optimization.",
-    "url": "https://viro.so?utm_source=toolify",
+    "url": "https://viro.so",
     "tags": [
       "AI YouTube Assistant",
       "Transcription",
@@ -2999,7 +1566,7 @@
   {
     "title": "KreadoAI Video Face Swap",
     "description": "Free online AI video face-swapping tool for realistic results.",
-    "url": "https://www.kreadoai.com/zh/video-face-swap?utm_source=toolify",
+    "url": "https://www.kreadoai.com/zh/video-face-swap",
     "tags": [
       "AI Face Swap Generator",
       "AI Video Recording",
@@ -3009,7 +1576,7 @@
   {
     "title": "Teammates.ai",
     "description": "Autonomous AI Teammates that take on entire business functions, end-to-end.",
-    "url": "https://www.teammates.ai?utm_source=toolify",
+    "url": "https://www.teammates.ai",
     "tags": [
       "AI Blog Writer",
       "Legal Assistant",
