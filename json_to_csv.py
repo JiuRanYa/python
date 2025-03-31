@@ -9,7 +9,7 @@ with open('result.json', 'r', encoding='utf-8') as f:
 with open('result.csv', 'w', encoding='utf-8', newline='') as f:
     # 定义CSV表头
     writer = csv.writer(f)
-    writer.writerow(['title', 'description', 'url', 'tags'])
+    writer.writerow(['title', 'description', 'url', 'tags', 'image'])
     
     # 写入数据
     for item in data:
@@ -19,6 +19,7 @@ with open('result.csv', 'w', encoding='utf-8', newline='') as f:
             item['title'],
             item['description'],
             item['url'],
+            item['image'],
             tags_str
         ])
 
