@@ -16,6 +16,7 @@ import threading
 from PIL import Image
 import io
 import os
+import uuid
 
 def create_driver():
     chrome_options = Options()
@@ -75,6 +76,47 @@ def save_progress(tools, filename='result.json'):
     except Exception as e:
         print(f"Error saving progress: {e}")
 
+def upload_image(base64_str):
+    try:
+        # 解码base64字符串
+        img_data = base64.b64decode(base64_str)
+        
+        # 创建临时文件名
+        temp_filename = f"temp_{uuid.uuid4()}.jpg"
+        
+        # 将图片数据写入临时文件
+        with open(temp_filename, 'wb') as f:
+            f.write(img_data)
+        
+        try:
+            # 准备上传文件
+            files = {
+                'file': ('screenshot.jpg', open(temp_filename, 'rb'), 'image/jpeg')
+            }
+            
+            # 发送POST请求
+            response = requests.post('http://localhost:3000/api/upload', files=files)
+            
+            if response.status_code == 200:
+                result = response.json()
+                if result.get('status') == 'success' and result.get('data', {}).get('url'):
+                    return result['data']['url']
+                print(f"Invalid response format: {result}")
+                return None
+            else:
+                print(f"Error uploading image: {response.status_code} - {response.text}")
+                return None
+                
+        finally:
+            # 关闭文件并删除临时文件
+            files['file'][1].close()
+            if os.path.exists(temp_filename):
+                os.remove(temp_filename)
+                
+    except Exception as e:
+        print(f"Error in upload_image: {e}")
+        return None
+
 def get_screenshot_data(url, driver):
     try:
         # 访问URL
@@ -95,7 +137,11 @@ def get_screenshot_data(url, driver):
         # 获取截图并压缩
         screenshot = driver.get_screenshot_as_base64()
         compressed_screenshot = compress_base64_image(screenshot)
-        return compressed_screenshot
+        
+        # 上传图片并获取URL
+        image_url = upload_image(compressed_screenshot)
+        return image_url
+        
     except TimeoutException:
         print(f"Timeout while loading URL: {url}")
     except WebDriverException as e:
@@ -121,14 +167,14 @@ def process_urls(urls, tool_cards, max_workers=10):
             description = card.select_one('.tool-desc').get_text(strip=True) if card.select_one('.tool-desc') else "N/A"
             tags = [tag.get_text(strip=True) for tag in card.select('.t-label')]
             
-            screenshot = get_screenshot_data(url, driver)
+            screenshot_url = get_screenshot_data(url, driver)
             
             tool_data = {
                 "title": title,
                 "description": description,
                 "url": url,
                 "tags": tags,
-                "image": screenshot
+                "image": screenshot_url
             }
             
             # 实时保存进度
@@ -194,7 +240,7 @@ def save_to_csv(tools):
     with open('result.csv', 'w', encoding='utf-8', newline='') as f:
         # 定义CSV表头
         writer = csv.writer(f, quoting=csv.QUOTE_ALL)  # 对所有字段使用引号
-        writer.writerow(['title', 'description', 'url', 'tags', 'image'])
+        writer.writerow(['title', 'description', 'url', 'tags', 'screenshot_url'])  # 改为screenshot_url
         
         # 写入数据
         for item in tools:
@@ -205,7 +251,7 @@ def save_to_csv(tools):
                 item['description'],
                 item['url'],
                 tags_str,
-                item['image']
+                item['url']  # 使用url字段
             ])
 
 def scrape_toolify_ai():
