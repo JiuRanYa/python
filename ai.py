@@ -240,7 +240,7 @@ def save_to_csv(tools):
     with open('result.csv', 'w', encoding='utf-8', newline='') as f:
         # 定义CSV表头
         writer = csv.writer(f, quoting=csv.QUOTE_ALL)  # 对所有字段使用引号
-        writer.writerow(['title', 'description', 'url', 'tags', 'screenshot_url'])  # 改为screenshot_url
+        writer.writerow(['title', 'description', 'url', 'tags', 'image'])  # 改为screenshot_url
         
         # 写入数据
         for item in tools:
@@ -251,7 +251,7 @@ def save_to_csv(tools):
                 item['description'],
                 item['url'],
                 tags_str,
-                item['url']  # 使用url字段
+                item['image']  # 使用url字段
             ])
 
 def scrape_toolify_ai():
