@@ -240,18 +240,18 @@ def save_to_csv(tools):
     with open('result.csv', 'w', encoding='utf-8', newline='') as f:
         # 定义CSV表头
         writer = csv.writer(f, quoting=csv.QUOTE_ALL)  # 对所有字段使用引号
-        writer.writerow(['title', 'description', 'url', 'tags', 'image'])  # 改为screenshot_url
+        writer.writerow(['title', 'description', 'url', 'tags', 'image'])
         
         # 写入数据
         for item in tools:
-            # 将tags列表转换为字符串，使用分号分隔
-            tags_str = ';'.join(item['tags'])
+            # 将tags列表转换为JSON字符串，保持数组格式
+            tags_str = json.dumps(item['tags'], ensure_ascii=False)
             writer.writerow([
                 item['title'],
                 item['description'],
                 item['url'],
-                tags_str,
-                item['image']  # 使用url字段
+                tags_str,  # 使用JSON格式保存数组
+                item['image']
             ])
 
 def get_api_products():
