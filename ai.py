@@ -254,12 +254,42 @@ def save_to_csv(tools):
                 item['image']  # 使用url字段
             ])
 
+def get_api_products():
+    try:
+        # 请求API获取所有产品
+        response = requests.get('http://localhost:3001/api/products?pageSize=all')
+        if response.status_code != 200:
+            print(f"请求API失败: {response.status_code}")
+            return None
+            
+        data = response.json()
+        if data.get('status') != 'success' or 'data' not in data:
+            print("API返回格式错误")
+            return None
+            
+        return data['data']['items']
+        
+    except Exception as e:
+        print(f"获取API产品数据时出错: {e}")
+        return None
+
 def scrape_toolify_ai():
     try:
         # 清除之前的结果文件
         if os.path.exists('result.json'):
             os.remove('result.json')
             
+
+                # 首先获取API中的产品
+        api_products = get_api_products()
+        if api_products is None:
+            print("获取API产品失败，退出程序")
+            return []
+            
+        # 获取已存在的URL集合
+        existing_urls = {item['url'] for item in api_products}
+        print(f"API中已有 {len(existing_urls)} 个产品")
+
         # 使用Selenium打开页面
         driver = create_driver()
         driver.get("https://www.toolify.ai/")
@@ -292,7 +322,8 @@ def scrape_toolify_ai():
         urls_to_process = []
         for card in tool_cards:
             url = get_actual_url(soup, card)
-            if url:
+            if url not in existing_urls and url:
+                print(f"发现新工具: {url}")
                 urls_to_process.append(url)
         
         # 并发处理URLs
