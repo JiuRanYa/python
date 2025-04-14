@@ -95,7 +95,7 @@ def upload_image(base64_str):
             }
             
             # 发送POST请求
-            response = requests.post('http://localhost:3000/api/upload', files=files)
+            response = requests.post('http://localhost:3001/api/upload', files=files)
             
             if response.status_code == 200:
                 result = response.json()
@@ -279,8 +279,7 @@ def scrape_toolify_ai():
         if os.path.exists('result.json'):
             os.remove('result.json')
             
-
-                # 首先获取API中的产品
+        # 首先获取API中的产品
         api_products = get_api_products()
         if api_products is None:
             print("获取API产品失败，退出程序")
@@ -292,7 +291,7 @@ def scrape_toolify_ai():
 
         # 使用Selenium打开页面
         driver = create_driver()
-        driver.get("https://www.toolify.ai/")
+        driver.get("https://www.toolify.ai")
         
         # 等待页面基本元素加载
         wait = WebDriverWait(driver, 10)
@@ -327,10 +326,14 @@ def scrape_toolify_ai():
                 urls_to_process.append(url)
         
         # 并发处理URLs
-        print(f"Starting concurrent processing of {len(urls_to_process)} URLs...")
+        print(f"开始处理 {len(urls_to_process)} 个URL...")
         results = process_urls(urls_to_process, tool_cards)
         
-        return list(results.values())
+        # 过滤掉image为null的结果
+        valid_results = [tool for tool in results.values() if tool.get('image') is not None]
+        print(f"成功获取图片的工具数量: {len(valid_results)}")
+        
+        return valid_results
         
     except Exception as e:
         print(f"Error scraping Toolify.ai: {e}")
@@ -340,11 +343,15 @@ def scrape_toolify_ai():
 
 if __name__ == "__main__":
     latest_tools = scrape_toolify_ai()
-    # 将结果写入JSON文件
-    with open('result.json', 'w', encoding='utf-8') as f:
-        json.dump(latest_tools, f, ensure_ascii=False, indent=2)
-    print(f"已成功将{len(latest_tools)}个工具的信息保存到 result.json")
     
-    # 自动转换为CSV
-    save_to_csv(latest_tools)
-    print(f"已成功将{len(latest_tools)}条数据转换为CSV格式")
+    # 将结果写入JSON文件
+    if latest_tools:
+        with open('result.json', 'w', encoding='utf-8') as f:
+            json.dump(latest_tools, f, ensure_ascii=False, indent=2)
+        print(f"已成功将{len(latest_tools)}个工具的信息保存到 result.json")
+        
+        # 自动转换为CSV
+        save_to_csv(latest_tools)
+        print(f"已成功将{len(latest_tools)}条数据转换为CSV格式")
+    else:
+        print("没有新的工具需要保存")
